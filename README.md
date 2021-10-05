@@ -13,7 +13,9 @@ Developer dev = Developer(
 <details>
   <summary>Stack Overflow</summary>
   <p align="center">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=14212524&theme=dark" alt="Kishan Dhankecha StackOverflow" />
+    <a href="https://stackoverflow.com/users/14212524" target="_blank">
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=14212524&theme=dark" alt="Kishan Dhankecha StackOverflow" /> 
+    </a>
   </p>
 </details>
 
