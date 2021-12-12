@@ -10,9 +10,9 @@ const dev = Developer(
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 
-// Bhagavad Gita sholk(verse) of the hour.
+// Bhagavad Gita sholk(verse) of the day.
 
-const verseOfTheHour = Verse(
+const verseOfTheDay = Verse(
     chapter: {chapter},
     verse: {verse},
     shlok: "{shlok}",

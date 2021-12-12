@@ -10,9 +10,9 @@ const dev = Developer(
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 
-// Bhagavad Gita sholk(verse) of the hour.
+// Bhagavad Gita sholk(verse) of the day.
 
-const verseOfTheHour = Verse(
+const verseOfTheDay = Verse(
     chapter: 17,
     verse: 15,
     shlok: "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् | स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
