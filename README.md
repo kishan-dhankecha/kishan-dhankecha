@@ -1,13 +1,21 @@
 ```dart
 // Hello folks!
 
-Developer dev = Developer(
+const dev = Developer(
   name : 'Kishan Dhankecha',
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'dhankechakishan@gmail.com',
   tech : 'Flutter',
   interests: ['Playing Minecraft', 'Listening Music'],
+);
+
+// Bhagavad Gita sholk(verse) of the hour.
+
+const verseOfTheHour = Verse(
+    chapter: 17,
+    verse: 6,
+    shlok: "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः | मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||",
 );
 ```
 <details>
