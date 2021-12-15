@@ -13,9 +13,9 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 27,
-    shlok: "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे | आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ||४-२७||",
+    chapter: 16,
+    verse: 5,
+    shlok: "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता | मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
 );
 ```
 <details>
