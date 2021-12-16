@@ -16,6 +16,7 @@ const verseOfTheDay = Verse(
     chapter: {chapter},
     verse: {verse},
     shlok: "{shlok}",
+    translated: "{translated}",
 );
 ```
 <details>
