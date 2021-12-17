@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 11,
-    shlok: "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते | यष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||",
-    translated: "17.11 Sacrifice is Pure when it is offered by one who does not covet the fruit thereof, when it is done according to the commands of scripture, and with implicit faith that the sacrifice is a duty.",
+    chapter: 4,
+    verse: 33,
+    shlok: "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप | सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ||४-३३||",
+    translated: "Shri Purohit Swami did not comment on this sloka",
 );
 ```
 <details>
