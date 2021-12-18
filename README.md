@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 33,
-    shlok: "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप | सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ||४-३३||",
-    translated: "Shri Purohit Swami did not comment on this sloka",
+    chapter: 15,
+    verse: 12,
+    shlok: "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् | यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||",
+    translated: "15.12 Remember that the Light which, proceeding from the sun, illumines the whole world, and the Light which is in the moon, and That which is in the fire also, all are born of Me.",
 );
 ```
 <details>
