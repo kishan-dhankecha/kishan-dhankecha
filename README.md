@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 12,
-    shlok: "लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा | रजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||",
-    translated: "14.12 O best of Indians! Avarice, the impulse to act and the beginning of action itself are all due to the dominance of Passion.",
+    chapter: 8,
+    verse: 6,
+    shlok: "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||",
+    translated: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go.",
 );
 ```
 <details>
