@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 6,
-    shlok: "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||",
-    translated: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go.",
+    chapter: 4,
+    verse: 8,
+    shlok: "परित्राणाय साधूनां विनाशाय च दुष्कृताम् | धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ||४-८||",
+    translated: "4.8 To protect the righteous, to destroy the wicked and to establish the kingdom of God, I am reborn from age to age.",
 );
 ```
 <details>
