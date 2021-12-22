@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 8,
-    shlok: "परित्राणाय साधूनां विनाशाय च दुष्कृताम् | धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ||४-८||",
-    translated: "4.8 To protect the righteous, to destroy the wicked and to establish the kingdom of God, I am reborn from age to age.",
+    chapter: 8,
+    verse: 19,
+    shlok: "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते | रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ||८-१९||",
+    translated: "8.19 The same multitude of beings, which have lived on earth so often, all are dissolved as the night of the universe approaches, to issue forth anew when morning breaks. Thus is it ordained.",
 );
 ```
 <details>
