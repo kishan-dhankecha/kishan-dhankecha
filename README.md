@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 19,
-    shlok: "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते | रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ||८-१९||",
-    translated: "8.19 The same multitude of beings, which have lived on earth so often, all are dissolved as the night of the universe approaches, to issue forth anew when morning breaks. Thus is it ordained.",
+    chapter: 7,
+    verse: 26,
+    shlok: "वेदाहं समतीतानि वर्तमानानि चार्जुन | भविष्याणि च भूतानि मां तु वेद न कश्चन ||७-२६||",
+    translated: "7.26 I know, O Arjuna, all beings in the past, the present and the future; but they do not know Me.",
 );
 ```
 <details>
