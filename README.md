@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 7,
-    shlok: "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत | अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ||४-७||",
-    translated: "4.7 Whenever spirituality decays and materialism is rampant, then, O Arjuna, I reincarnate Myself!",
+    chapter: 1,
+    verse: 17,
+    shlok: "काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||",
+    translated: "1.17 And the Maharaja of Benares, the great archer, Shikhandi, the great soldier, Dhrishtayumna, Virata and Satyaki, the invincible,",
 );
 ```
 <details>
