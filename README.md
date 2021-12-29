@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 37,
-    shlok: "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् | स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||",
-    translated: "1.37 We are worthy of a nobler feat than to slaughter our relatives - the sons of Dhritarashtra; for, my Lord, how can we be happy of we kill our kinsmen?",
+    chapter: 18,
+    verse: 70,
+    shlok: "अध्येष्यते च य इमं धर्म्यं संवादमावयोः | ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||१८-७०||",
+    translated: "18.70 He who will study this spiritual discourse of ours, I assure thee, he shall thereby worship Me at the altar of Wisdom.",
 );
 ```
 <details>
