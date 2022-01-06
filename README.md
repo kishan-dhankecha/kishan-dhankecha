@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 10,
-    shlok: "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् | विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||",
-    translated: "15.10 The ignorant do not see that it is He Who is present in life and Who departs at death or even that it is He Who enjoys pleasure through the Qualities. Only the eye of wisdom sees.",
+    chapter: 18,
+    verse: 54,
+    shlok: "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति | समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||१८-५४||",
+    translated: "18.54 And when he becomes one with the Eternal, and his soul knows the bliss that belongs to the Self, he feels no desire and no regret, he regards all beings equally and enjoys the blessing of supreme devotion to Me.",
 );
 ```
 <details>
