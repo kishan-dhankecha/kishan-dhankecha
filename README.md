@@ -14,9 +14,9 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 18,
-    verse: 54,
-    shlok: "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति | समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||१८-५४||",
-    translated: "18.54 And when he becomes one with the Eternal, and his soul knows the bliss that belongs to the Self, he feels no desire and no regret, he regards all beings equally and enjoys the blessing of supreme devotion to Me.",
+    verse: 68,
+    shlok: "य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति | भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||१८-६८||",
+    translated: "18.68 But he who teaches this great secret to My devotees, his is the highest devotion, and verily he shall come unto Me.",
 );
 ```
 <details>
