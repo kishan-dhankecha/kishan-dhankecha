@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 12,
-    shlok: "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च | मूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||",
-    translated: "8.12 Closing the gates of the body, drawing the forces of his mind into the heart and by the power of meditation concentrating his vital energy in the brain;",
+    chapter: 5,
+    verse: 29,
+    shlok: "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् | सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ||५-२९||",
+    translated: "5.29 Knowing me as Him who gladly receives all offerings of austerity and sacrifice, as the Might Ruler of all the Worlds and the Friend of all beings, he passes to Eternal Peace."",
 );
 ```
 <details>
