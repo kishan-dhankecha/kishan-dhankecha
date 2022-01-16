@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 20,
-    shlok: "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे | देशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||",
-    translated: "17.20 The gift which is given without thought of recompense, in the belief that it ought to be made, in a fit place, at an opportune time and to a deserving person - such a gift is Pure.",
+    chapter: 6,
+    verse: 39,
+    shlok: "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः | त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ||६-३९||",
+    translated: "6.39 My Lord! Thou art worthy to solve this doubt once and for all; save Thyself there is no one competent to do so.",
 );
 ```
 <details>
