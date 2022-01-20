@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 13,
-    shlok: "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् | इदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||",
-    translated: "16.13 This I have gained today; tomorrow I will gratify another desire; this wealth is mine now, the rest shall be mine ere long;",
+    chapter: 10,
+    verse: 8,
+    shlok: "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते | इति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||",
+    translated: "10.8 I am the source of all; from Me everything flows. Therefore the wise worship Me with unchanging devotion.",
 );
 ```
 <details>
