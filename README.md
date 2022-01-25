@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 53,
-    shlok: "नाहं वेदैर्न तपसा न दानेन न चेज्यया | शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा ||११-५३||",
-    translated: "11.53 Not by study of the scriptures, or by austerities, not by gifts or sacrifices, is it possible to see Me as thou hast done.",
+    chapter: 16,
+    verse: 5,
+    shlok: "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता | मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
+    translated: "16.5 Godly qualities lead to liberation; godless to bondage. Do not be anxious, Prince! Thou hast the Godly qualities.",
 );
 ```
 <details>
