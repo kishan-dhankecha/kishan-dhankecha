@@ -14,9 +14,9 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 18,
-    verse: 2,
-    shlok: "श्रीभगवानुवाच | काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः | सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||१८-२||",
-    translated: "18.2 Lord Shri Krishna replied: The sages say that renunciation means forgoing an action which springs from desire; and relinquishing means the surrender of its fruit.",
+    verse: 22,
+    shlok: "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् | अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||१८-२२||",
+    translated: "18.22 But that which clings blindly to one idea as if it were all, without logic, truth or insight, that has its origin in Darkness.",
 );
 ```
 <details>
