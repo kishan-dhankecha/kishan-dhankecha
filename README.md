@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 13,
-    shlok: "पञ्चैतानि महाबाहो कारणानि निबोध मे | साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||१८-१३||",
-    translated: "18.13 I will tell thee now, O Mighty Man, the five causes which, according to the final decision of philosophy, must concur before an action can be accomplished.",
+    chapter: 14,
+    verse: 27,
+    shlok: "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च | शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ||१४-२७||",
+    translated: "14.27 For I am the Home of the Spirit, the continual Source of immortality, of eternal Righteousness and of infinite Joy."",
 );
 ```
 <details>
