@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 38,
-    shlok: "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||",
-    translated: "1.38 Although these men, blinded by greed, see no guilt in destroying their kin, or fighting against their friends,",
+    chapter: 13,
+    verse: 24,
+    shlok: "य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह | सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ||१३-२४||",
+    translated: "13.24 He who understands God and Nature along with her qualities, whatever be his condition in life, he comes not again to earth.",
 );
 ```
 <details>
