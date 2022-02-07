@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 44,
-    shlok: "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः | जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ||६-४४||",
-    translated: "6.44 Unconsciously he will return to the practices of his old life; so that he who tries to realise spiritual consciousness is certainly superior to one who only talks of it.",
+    chapter: 1,
+    verse: 40,
+    shlok: "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः | धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||",
+    translated: "1.40 The destruction of our kindred means the destruction of the traditions of our ancient lineage, and when these are lost, irreligion will overrun our homes.",
 );
 ```
 <details>
