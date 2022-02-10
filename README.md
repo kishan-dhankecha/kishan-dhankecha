@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 15,
-    shlok: "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||",
-    translated: "1.15 Lord Shri Krishna blew his Panchajanya and Arjuna his Devadatta, brave Bheema his renowned shell, Poundra.",
+    chapter: 16,
+    verse: 24,
+    shlok: "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ | ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
+    translated: "16.24 Therefore whenever there is doubt whether thou shouldst do a thing or not, let the scriptures guide thy conduct. In the light of the scriptures shouldst thou labour the whole of thy life."",
 );
 ```
 <details>
