@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
+    chapter: 2,
     verse: 37,
-    shlok: "श्रीभगवानुवाच | काम एष क्रोध एष रजोगुणसमुद्भवः | महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||३-३७||",
-    translated: "3.37 Lord Shri Krishna: It is desire, it is aversion, born of passion. Desire consumes and corrupts everything. It is man's greatest enemy.",
+    shlok: "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् | तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ||२-३७||",
+    translated: "2.37 If killed, thou shalt attain Heaven; if victorious, enjoy the kingdom of earth. Therefore arise, O Son of Kunti, and fight!",
 );
 ```
 <details>
