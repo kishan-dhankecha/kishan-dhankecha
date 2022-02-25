@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 19,
-    shlok: "इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः | मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते ||१३-१९||",
-    translated: "13.19 Thus I have told thee in brief what Matter is, and the Self worth realising and what is Wisdom. He who is devoted to Me knows; and assuredly he will enter into Me.",
+    chapter: 18,
+    verse: 36,
+    shlok: "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ | अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ||१८-३६||",
+    translated: "18.36 Hear further the three kinds of pleasure. That which increases day after day delivers one from misery,",
 );
 ```
 <details>
