@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 43,
-    shlok: "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||",
-    translated: "1.43 By the destruction of our lineage and the pollution of blood, ancient class traditions and family purity alike perish.",
+    chapter: 12,
+    verse: 6,
+    shlok: "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः | अनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||",
+    translated: "12.6 Verily, those who surrender their actions to Me, who muse on Me, worship Me and meditate on Me alone, with no thought save of Me,",
 );
 ```
 <details>
