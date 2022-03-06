@@ -28,11 +28,4 @@ const verseOfTheDay = Verse(
   </p>
 </details>
 
-<details>
-  <summary>Github Stats</summary>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kishan-dhankecha&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-dhankecha&theme=tokyonight" /></br></br>
-    <img src="https://views.whatilearened.today/views/github/kishan-dhankecha/views.svg" />
-  </p>
-</details>
+<img src="https://views.whatilearened.today/views/github/kishan-dhankecha/views.svg" />
