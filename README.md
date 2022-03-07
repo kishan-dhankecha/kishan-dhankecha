@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 3,
-    shlok: "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत | क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ||१३-३||",
-    translated: "13.3 I am the Omniscient self that abides in the playground of Matter; knowledge of Matter and of the all-knowing Self is wisdom.",
+    chapter: 2,
+    verse: 72,
+    shlok: "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति | स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ||२-७२||",
+    translated: "2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to which if a man once attain, it shall never be taken from him. Even at the time of leaving the body, he will remain firmly enthroned there, and will become one with the Eternal."",
 );
 ```
 <details>
@@ -28,4 +28,11 @@ const verseOfTheDay = Verse(
   </p>
 </details>
 
-<img src="https://views.whatilearened.today/views/github/kishan-dhankecha/views.svg" />
+<details>
+  <summary>Github Stats</summary>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kishan-dhankecha&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-dhankecha&theme=tokyonight" /></br></br>
+    <img src="https://views.whatilearened.today/views/github/kishan-dhankecha/views.svg" />
+  </p>
+</details>
