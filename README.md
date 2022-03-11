@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 69,
-    shlok: "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः | भविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||",
-    translated: "18.69 Nor is there among men any who can perform a service dearer to Me than this, or any man on earth more beloved by Me than he.",
+    chapter: 11,
+    verse: 29,
+    shlok: "यथा प्रदीप्तं ज्वलनं पतङ्गा विशन्ति नाशाय समृद्धवेगाः | तथैव नाशाय विशन्ति लोकास्- तवापि वक्त्राणि समृद्धवेगाः ||११-२९||",
+    translated: "11.29 As moths fly impetuously to the flame only to be killed, so these men rush into Thy mouths to court their own destruction.",
 );
 ```
 <details>
