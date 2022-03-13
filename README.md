@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 26,
-    shlok: "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते | प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||",
-    translated: "17.26 Sat' means Reality or the highest Good, and also, O Arjuna, it is used to mean an action of exceptional merit.",
+    chapter: 10,
+    verse: 19,
+    shlok: "श्रीभगवानुवाच | हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः | प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||",
+    translated: "10.19 Lord Shri Krishna replied: So be it, My beloved fried! I will unfold to thee some of the chief aspects of My glory. Of its full extent there is no end.",
 );
 ```
 <details>
