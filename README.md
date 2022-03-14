@@ -14,9 +14,9 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 10,
-    verse: 19,
-    shlok: "श्रीभगवानुवाच | हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः | प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||",
-    translated: "10.19 Lord Shri Krishna replied: So be it, My beloved fried! I will unfold to thee some of the chief aspects of My glory. Of its full extent there is no end.",
+    verse: 15,
+    shlok: "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम | भूतभावन भूतेश देवदेव जगत्पते ||१०-१५||",
+    translated: "-",
 );
 ```
 <details>
