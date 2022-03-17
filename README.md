@@ -13,10 +13,10 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 13,
-    shlok: "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||",
-    translated: "1.13 And immediately all the conches and drums, the trumpets and horns, blared forth in tumultuous uproar.",
+    chapter: 10,
+    verse: 7,
+    shlok: "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः | सोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||",
+    translated: "10.7 He who rightly understands My manifested glory and My Creative Power, beyond doubt attains perfect peace.",
 );
 ```
 <details>
