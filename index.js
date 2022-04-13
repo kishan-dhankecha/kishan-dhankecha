@@ -1,12 +1,16 @@
 const { promises: fs } = require("fs");
 
-const shlok_list = require('./shlok_list.json');
+const shloka_list = require('./shloka_list.json');
 
 async function main() {
-    const shlok = shlok_list[Math.floor(Math.random() * shlok_list.length)];
-    console.log(shlok);
+    const shloka = shloka_list[Math.floor(Math.random() * shloka_list.length)];
     const readmeTemplate = (await fs.readFile("./README.temp.md")).toString("utf-8");
-    const readme = readmeTemplate.replace("{shlok}", shlok.shlok.replace(/\n/g, ` `)).replace("{chapter}", `${shlok.chapter}`).replace("{verse}", `${shlok.verse}`).replace("{translated}", `${shlok.translated}`);
+    const readme = readmeTemplate
+        .replace("{chapter}", `${shloka.chapter}`)
+        .replace("{verse}", `${shloka.verse}`)
+        .replace("{shloka}", shloka.shloka.replace(/\n/g, ` `))
+        .replace("{translation}", `${shloka.translation}`)
+        .replace("{hindi_translation}", `${shloka.hindi_translation}`);
     await fs.writeFile("README.md", readme);
 }
 

@@ -15,8 +15,9 @@ const dev = Developer(
 const verseOfTheDay = Verse(
     chapter: {chapter},
     verse: {verse},
-    shlok: "{shlok}",
-    translated: "{translated}",
+    shloka: "{shloka}",
+    translation: "{translation}",
+    hindi_translation: "{hindi_translation}",
 );
 ```
 <p align="center">
