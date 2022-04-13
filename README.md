@@ -13,9 +13,9 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 38,
-    shlok: "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति | अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ||६-३८||",
+    chapter: 12,
+    verse: 18,
+    shlok: "समः शत्रौ च मित्रे च तथा मानापमानयोः | शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
     translated: "-",
 );
 ```
