@@ -6,18 +6,18 @@ const dev = Developer(
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'dhankechakishan@gmail.com',
-  tech : 'Flutter',
+  tech : ['Flutter', 'NodeJS'],
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 14,
-    shloka: "अनन्यचेता: सततं यो मां स्मरति नित्यश: |तस्याहं सुलभ: पार्थ नित्ययुक्तस्य योगिन: || 14||",
-    translation: "8.14: O Parth, for those yogis who always think of Me with exclusive devotion, I am easily attainable because of their constant absorption in Me.",
-    hindi_translation: "8.14: हे पार्थ! जो योगी अनन्य भक्ति भाव से सदैव मेरा चिन्तन करते हैं, उनके लिए मैं सरलता से सुलभ रहता हूँ क्योंकि वे निरन्तर मेरी भक्ति में तल्लीन रहते हैं।",
+    chapter: 4,
+    verse: 23,
+    shloka: "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतस: |यज्ञायाचरत: कर्म समग्रं प्रविलीयते || 23||",
+    translation: "4.23: They are released from the bondage of material attachments and their intellect is established in divine knowledge. Since they perform all actions as a sacrifice (to God), they are freed from all karmic reactions.",
+    hindi_translation: "4.23: "वे सांसारिक मोह से मुक्त हो जाते हैं और उनकी बुद्धि दिव्य ज्ञान में स्थित हो जाती है क्योंकि वे अपने सभी कर्म यज्ञ के रूप में भगवान के लिए सम्पन्न करते हैं और इसलिए वे कार्मिक प्रतिक्रियाओं से मुक्त रहते हैं।"",
 );
 ```
 <p align="center">
