@@ -6,7 +6,7 @@ const dev = Developer(
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'dhankechakishan@gmail.com',
-  tech : 'Flutter',
+  tech : ['Flutter', 'NodeJS'],
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 
