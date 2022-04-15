@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 23,
-    shloka: "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतस: |यज्ञायाचरत: कर्म समग्रं प्रविलीयते || 23||",
-    translation: "4.23: They are released from the bondage of material attachments and their intellect is established in divine knowledge. Since they perform all actions as a sacrifice (to God), they are freed from all karmic reactions.",
-    hindi_translation: "4.23: "वे सांसारिक मोह से मुक्त हो जाते हैं और उनकी बुद्धि दिव्य ज्ञान में स्थित हो जाती है क्योंकि वे अपने सभी कर्म यज्ञ के रूप में भगवान के लिए सम्पन्न करते हैं और इसलिए वे कार्मिक प्रतिक्रियाओं से मुक्त रहते हैं।"",
+    chapter: 11,
+    verse: 15,
+    shloka: "अर्जुन उवाच |पश्यामि देवांस्तव देव देहेसर्वांस्तथा भूतविशेषसङ्घान् |ब्रह्माणमीशं कमलासनस्थ-मृषींश्च सर्वानुरगांश्च दिव्यान् || 15||",
+    translation: "11.15: Arjun said: O Shree Krishna, I behold within your body all the gods and hosts of different beings. I see Brahma seated on the lotus flower; I see Shiv, all the sages, and the celestial serpents.",
+    hindi_translation: "11.15: अर्जुन ने कहा-मैंने आपके शरीर में सभी देवताओं और विभिन्न प्रकार के जीवों को देखा। मैंने वहाँ कमल पर आसीन ब्रह्मा और शिव तथा सभी ऋषियों और स्वर्ग के सर्पो को देखा।",
 );
 ```
 <p align="center">
