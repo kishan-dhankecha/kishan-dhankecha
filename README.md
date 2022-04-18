@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 8,
-    shloka: "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |निवसिष्यसि मय्येव अत ऊर्ध्वं न संशय: || 8||",
-    translation: "12.8: Fix your mind on Me alone and surrender your intellect to Me. There upon, you will always live in Me. Of this, there is no doubt.",
-    hindi_translation: "12.8: अपने मन को केवल मुझ पर स्थिर करो और अपनी बुद्धि मुझे समर्पित कर दो। इस प्रकार से तुम सदैव मुझ में स्थित रहोगे। इसमें कोई संदेह नहीं हैं।",
+    chapter: 7,
+    verse: 4,
+    shloka: "भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च |अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा || 4||",
+    translation: "7.4: Earth, water, fire, air, space, mind, intellect, and ego—these are eight components of My material energy.",
+    hindi_translation: "7.4: पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार ये सब मेरी प्राकृत शक्ति के आठ तत्त्व हैं।",
 );
 ```
 <p align="center">
