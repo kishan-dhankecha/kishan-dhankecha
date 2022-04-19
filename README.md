@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 4,
-    shloka: "भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च |अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा || 4||",
-    translation: "7.4: Earth, water, fire, air, space, mind, intellect, and ego—these are eight components of My material energy.",
-    hindi_translation: "7.4: पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार ये सब मेरी प्राकृत शक्ति के आठ तत्त्व हैं।",
+    chapter: 15,
+    verse: 18,
+    shloka: "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तम: |अतोऽस्मि लोके वेदे च प्रथित: पुरुषोत्तम: || 18||",
+    translation: "15.18: I am transcendental to the perishable world of matter, and even to the imperishable soul; hence I am celebrated, both in the Vedas and the Smṛitis, as the Supreme Divine Personality.",
+    hindi_translation: "15.18: मैं नश्वर सांसारिक पदार्थों और यहाँ तक कि अविनाशी आत्मा से भी परे हूँ इसलिए मैं वेदों और स्मृतियों दोनों में ही दिव्य परम पुरूष के रूप में विख्यात हूँ।",
 );
 ```
 <p align="center">
