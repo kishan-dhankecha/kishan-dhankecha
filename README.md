@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 38-39,
-    shloka: "यद्यप्येते न पश्यन्ति लोभोपहतचेतस: |कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् || 38||कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् |कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन || 39||",
-    translation: "1.38-39: Their thoughts are overpowered by greed and they see no wrong in annihilating their relatives or wreaking treachery upon friends. Yet, O Janardan (Krishna), why should we, who can clearly see the crime in killing our kindred, not turn away from this sin?",
-    hindi_translation: "1.38-39: यद्यपि लोभ से अभिभूत विचारधारा के कारण वे अपने स्वजनों के विनाश या प्रतिशोध के कारण और अपने मित्रों के साथ विश्वासघात करने में कोई दोष नही देखते हैं। तथापि हे जनार्दन! जब हमें स्पष्टतः अपने बंधु बान्धवों का वध करने में अपराध दिखाई देता है तब हम ऐसे पापमय कर्म से क्यों न दूर रहें?",
+    chapter: 6,
+    verse: 27,
+    shloka: "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् |उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् || 27||",
+    translation: "6.27: Great transcendental happiness comes to the yogi whose mind is calm, whose passions are subdued, who is without sin, and who sees everything in connection with God.",
+    hindi_translation: "6.27: जिस योगी का मन शांत हो जाता है और जिसकी वासनाएँ वश में हो जाती हैं एवं जो निष्पाप है तथा जो प्रत्येक वस्तु का संबंध भगवान के साथ जोड़कर देखता है, उसे अलौकिक आनन्द प्राप्त होता है।",
 );
 ```
 <p align="center">
