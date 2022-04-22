@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 27,
-    shloka: "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् |उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् || 27||",
-    translation: "6.27: Great transcendental happiness comes to the yogi whose mind is calm, whose passions are subdued, who is without sin, and who sees everything in connection with God.",
-    hindi_translation: "6.27: जिस योगी का मन शांत हो जाता है और जिसकी वासनाएँ वश में हो जाती हैं एवं जो निष्पाप है तथा जो प्रत्येक वस्तु का संबंध भगवान के साथ जोड़कर देखता है, उसे अलौकिक आनन्द प्राप्त होता है।",
+    chapter: 2,
+    verse: 34,
+    shloka: "अकीर्तिं चापि भूतानिकथयिष्यन्ति तेऽव्ययाम् |सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते || 34||",
+    translation: "2.34: People will speak of you as a coward and a deserter. For a respectable person, infamy is worse than death.",
+    hindi_translation: "2.34: लोग तुम्हें कायर और भगोड़ा कहेंगे। एक सम्माननीय व्यक्ति के लिए अपयश मृत्यु से बढ़कर है।",
 );
 ```
 <p align="center">
