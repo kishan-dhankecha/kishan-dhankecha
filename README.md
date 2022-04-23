@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 34,
-    shloka: "अकीर्तिं चापि भूतानिकथयिष्यन्ति तेऽव्ययाम् |सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते || 34||",
-    translation: "2.34: People will speak of you as a coward and a deserter. For a respectable person, infamy is worse than death.",
-    hindi_translation: "2.34: लोग तुम्हें कायर और भगोड़ा कहेंगे। एक सम्माननीय व्यक्ति के लिए अपयश मृत्यु से बढ़कर है।",
+    chapter: 11,
+    verse: 38,
+    shloka: "त्वमादिदेव: पुरुष: पुराणस्- त्वमस्य विश्वस्य परं निधानम् |वेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप || 38||",
+    translation: "11.38: You are the primeval God and the original Divine Personality; you are the sole resting place of this universe. You are both the knower and the object of knowledge; you are the Supreme Abode. O possessor of infinite forms, you alone pervade the entire universe.",
+    hindi_translation: "11.38: आप आदि सर्वात्मा दिव्य सनातन स्वरूप हैं, आप इस ब्रह्माण्ड के परम आश्रय हैं। आप ही सर्वज्ञाता और जो कुछ भी जानने योग्य है वह सब आप ही हो। आप ही परम धाम हो। हे अनंत रूपों के स्वामी! केवल आप ही समस्त ब्रह्माण्ड में व्याप्त हो।",
 );
 ```
 <p align="center">
