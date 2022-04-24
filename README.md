@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 38,
-    shloka: "त्वमादिदेव: पुरुष: पुराणस्- त्वमस्य विश्वस्य परं निधानम् |वेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप || 38||",
-    translation: "11.38: You are the primeval God and the original Divine Personality; you are the sole resting place of this universe. You are both the knower and the object of knowledge; you are the Supreme Abode. O possessor of infinite forms, you alone pervade the entire universe.",
-    hindi_translation: "11.38: आप आदि सर्वात्मा दिव्य सनातन स्वरूप हैं, आप इस ब्रह्माण्ड के परम आश्रय हैं। आप ही सर्वज्ञाता और जो कुछ भी जानने योग्य है वह सब आप ही हो। आप ही परम धाम हो। हे अनंत रूपों के स्वामी! केवल आप ही समस्त ब्रह्माण्ड में व्याप्त हो।",
+    chapter: 3,
+    verse: 42,
+    shloka: "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: || 42||",
+    translation: "3.42: The senses are superior to the gross body, and superior to the senses is the mind. Beyond the mind is the intellect, and even beyond the intellect is the soul.",
+    hindi_translation: "3.42: इन्द्रियाँ स्थूल शरीर से श्रेष्ठ हैं और इन्द्रियों से उत्तम मन, मन से श्रेष्ठ बुद्धि और आत्मा बुद्धि से भी परे है।",
 );
 ```
 <p align="center">
