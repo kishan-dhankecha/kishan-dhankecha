@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 3,
-    verse: 42,
-    shloka: "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: || 42||",
-    translation: "3.42: The senses are superior to the gross body, and superior to the senses is the mind. Beyond the mind is the intellect, and even beyond the intellect is the soul.",
-    hindi_translation: "3.42: इन्द्रियाँ स्थूल शरीर से श्रेष्ठ हैं और इन्द्रियों से उत्तम मन, मन से श्रेष्ठ बुद्धि और आत्मा बुद्धि से भी परे है।",
+    verse: 20-21,
+    shloka: "कर्मणैव हि संसिद्धिमास्थिता जनकादय: |लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि || 20||यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते || 21||",
+    translation: "3.20-21: By performing their prescribed duties, King Janak and others attained perfection. You should also perform your duties to set an example for the good of the world. Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues.",
+    hindi_translation: "3.20-21: राजा जनक और अन्य महापुरुषों ने अपने नियत कर्मों का पालन करते हुए सिद्धि प्राप्त की थी इसलिए तुम्हें भी अपने कर्तव्यों का निर्वाहन करते हुए समाज के कल्याण के लिए अनुकरणीय उदाहरण प्रस्तुत करना चाहिए। महापुरुष जो भी कर्म करते हैं, सामान्य जन उनका पालन करते हैं, वे जो भी आदर्श स्थापित करते हैं, सारा संसार उनका अनुसरण करता है।",
 );
 ```
 <p align="center">
