@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 20-21,
-    shloka: "कर्मणैव हि संसिद्धिमास्थिता जनकादय: |लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि || 20||यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते || 21||",
-    translation: "3.20-21: By performing their prescribed duties, King Janak and others attained perfection. You should also perform your duties to set an example for the good of the world. Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues.",
-    hindi_translation: "3.20-21: राजा जनक और अन्य महापुरुषों ने अपने नियत कर्मों का पालन करते हुए सिद्धि प्राप्त की थी इसलिए तुम्हें भी अपने कर्तव्यों का निर्वाहन करते हुए समाज के कल्याण के लिए अनुकरणीय उदाहरण प्रस्तुत करना चाहिए। महापुरुष जो भी कर्म करते हैं, सामान्य जन उनका पालन करते हैं, वे जो भी आदर्श स्थापित करते हैं, सारा संसार उनका अनुसरण करता है।",
+    chapter: 18,
+    verse: 1,
+    shloka: "अर्जुन उवाच |सन्न्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |त्यागस्य च हृषीकेश पृथक्केशिनिषूदन || 1||",
+    translation: "18.1: Arjun said: O mighty-armed Krishna, I wish to understand the nature of sanyās (renunciation of actions) and tyāg (renunciation of the desire for the fruits of actions). O Hrishikesh, I also wish to know the distinction between the two, O Keshinisudan.",
+    hindi_translation: "18.1: अर्जुन ने कहा-हे महाबाहु। मैं संन्यास और त्याग की प्रकृति के संबंध में जानना चाहता हूँ। हे केशिनिषूदन, हे हृषिकेश! मैं दोनों के बीच का भेद जानने का भी इच्छुक हूँ।",
 );
 ```
 <p align="center">
