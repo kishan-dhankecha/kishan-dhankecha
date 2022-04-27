@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 1,
-    shloka: "अर्जुन उवाच |सन्न्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |त्यागस्य च हृषीकेश पृथक्केशिनिषूदन || 1||",
-    translation: "18.1: Arjun said: O mighty-armed Krishna, I wish to understand the nature of sanyās (renunciation of actions) and tyāg (renunciation of the desire for the fruits of actions). O Hrishikesh, I also wish to know the distinction between the two, O Keshinisudan.",
-    hindi_translation: "18.1: अर्जुन ने कहा-हे महाबाहु। मैं संन्यास और त्याग की प्रकृति के संबंध में जानना चाहता हूँ। हे केशिनिषूदन, हे हृषिकेश! मैं दोनों के बीच का भेद जानने का भी इच्छुक हूँ।",
+    chapter: 2,
+    verse: 50,
+    shloka: "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |तस्माद्योगाय युज्यस्व योग: कर्मसु कौशलम् || 50||",
+    translation: "2.50: One who prudently practices the science of work without attachment can get rid of both good and bad reactions in this life itself. Therefore, strive for Yog, which is the art of working skillfully (in proper consciousness).",
+    hindi_translation: "2.50: जब कोई मनुष्य बिना आसक्ति के कर्मयोग का अभ्यास करता है तब वह इस जीवन में ही शुभ और अशुभ प्रतिक्रियाओं से छुटकारा पा लेता है। इसलिए योग के लिए प्रयास करना चाहिए जो कुशलतापूर्वक कर्म करने की कला है।",
 );
 ```
 <p align="center">
