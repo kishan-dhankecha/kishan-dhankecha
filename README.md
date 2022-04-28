@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 50,
-    shloka: "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |तस्माद्योगाय युज्यस्व योग: कर्मसु कौशलम् || 50||",
-    translation: "2.50: One who prudently practices the science of work without attachment can get rid of both good and bad reactions in this life itself. Therefore, strive for Yog, which is the art of working skillfully (in proper consciousness).",
-    hindi_translation: "2.50: जब कोई मनुष्य बिना आसक्ति के कर्मयोग का अभ्यास करता है तब वह इस जीवन में ही शुभ और अशुभ प्रतिक्रियाओं से छुटकारा पा लेता है। इसलिए योग के लिए प्रयास करना चाहिए जो कुशलतापूर्वक कर्म करने की कला है।",
+    chapter: 7,
+    verse: 18,
+    shloka: "उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् || 18||",
+    translation: "7.18: All those who are devoted to Me are indeed noble. But those in knowledge, who are of steadfast mind, whose intellect is merged in Me, and who have made Me alone as their supreme goal, I consider as My very self.",
+    hindi_translation: "7.18: वास्तव में वे सब जो मुझ पर समर्पित हैं, निःसंदेह महान हैं। लेकिन जो ज्ञानी हैं और स्थिर मन वाले हैं और जिन्होंने अपनी बुद्धि मुझमें विलय कर दी है और जो केवल मुझे ही परम लक्ष्य के रूप में देखते हैं, उन्हें मैं अपने समान ही मानता हूँ।",
 );
 ```
 <p align="center">
