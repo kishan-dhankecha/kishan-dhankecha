@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 18,
-    shloka: "उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् || 18||",
-    translation: "7.18: All those who are devoted to Me are indeed noble. But those in knowledge, who are of steadfast mind, whose intellect is merged in Me, and who have made Me alone as their supreme goal, I consider as My very self.",
-    hindi_translation: "7.18: वास्तव में वे सब जो मुझ पर समर्पित हैं, निःसंदेह महान हैं। लेकिन जो ज्ञानी हैं और स्थिर मन वाले हैं और जिन्होंने अपनी बुद्धि मुझमें विलय कर दी है और जो केवल मुझे ही परम लक्ष्य के रूप में देखते हैं, उन्हें मैं अपने समान ही मानता हूँ।",
+    chapter: 11,
+    verse: 30,
+    shloka: "लेलिह्यसे ग्रसमान: समन्ता-ल्लोकान्समग्रान्वदनैर्ज्वलद्भि: |तेजोभिरापूर्य जगत्समग्रंभासस्तवोग्रा: प्रतपन्ति विष्णो || 30||",
+    translation: "11.30: With your fiery tongues you are licking up the hosts of living beings on all sides and devouring them with your blazing mouths. O Vishnu, you are scorching the entire universe with the fierce, all-pervading rays of your effulgence.",
+    hindi_translation: "11.30: तुम अपनी तीक्ष्ण जिह्वा से समस्त दिशाओं के जीव समूहों को चाट रहे हो और उन्हें अपने प्रज्जवलित मुखों में निगल रहे हो। हे विष्णु! आप अपने सर्वत्र फैले प्रचंड तेज की किरणों से समस्त ब्रह्माण्ड को भीषणता से झुलसा रहे हो।",
 );
 ```
 <p align="center">
