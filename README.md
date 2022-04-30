@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 30,
-    shloka: "लेलिह्यसे ग्रसमान: समन्ता-ल्लोकान्समग्रान्वदनैर्ज्वलद्भि: |तेजोभिरापूर्य जगत्समग्रंभासस्तवोग्रा: प्रतपन्ति विष्णो || 30||",
-    translation: "11.30: With your fiery tongues you are licking up the hosts of living beings on all sides and devouring them with your blazing mouths. O Vishnu, you are scorching the entire universe with the fierce, all-pervading rays of your effulgence.",
-    hindi_translation: "11.30: तुम अपनी तीक्ष्ण जिह्वा से समस्त दिशाओं के जीव समूहों को चाट रहे हो और उन्हें अपने प्रज्जवलित मुखों में निगल रहे हो। हे विष्णु! आप अपने सर्वत्र फैले प्रचंड तेज की किरणों से समस्त ब्रह्माण्ड को भीषणता से झुलसा रहे हो।",
+    chapter: 18,
+    verse: 17,
+    shloka: "यस्य नाहङ् कृतो भावो बुद्धिर्यस्य न लिप्यते |हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते || 17||",
+    translation: "18.17: Those who are free from the ego of being the doer, and whose intellect is unattached, though they may slay living beings, they neither kill nor are they bound by actions.",
+    hindi_translation: "18.17: जो कर्तापन के अहंकार से मुक्त होते हैं और जिनकी बुद्धि मोहग्रस्त नहीं है, यद्यपि वे जीवों को मारते हैं तथापि वे न तो जीवों को मारते हैं और न कर्मों के बंधन में पड़ते हैं।",
 );
 ```
 <p align="center">
