@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 17,
-    shloka: "यस्य नाहङ् कृतो भावो बुद्धिर्यस्य न लिप्यते |हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते || 17||",
-    translation: "18.17: Those who are free from the ego of being the doer, and whose intellect is unattached, though they may slay living beings, they neither kill nor are they bound by actions.",
-    hindi_translation: "18.17: जो कर्तापन के अहंकार से मुक्त होते हैं और जिनकी बुद्धि मोहग्रस्त नहीं है, यद्यपि वे जीवों को मारते हैं तथापि वे न तो जीवों को मारते हैं और न कर्मों के बंधन में पड़ते हैं।",
+    chapter: 5,
+    verse: 14,
+    shloka: "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: |न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते || 14||",
+    translation: "5.14: Neither the sense of doership nor the nature of actions comes from God; nor does He create the fruits of actions. All this is enacted by the modes of material nature (guṇas).",
+    hindi_translation: "5.14: न तो कर्त्तापन का बोध और न ही कर्मों की प्रवृत्ति भगवान से प्राप्त होती है तथा न ही वे कर्मों के फल का सृजन करते हैं। यह सब प्रकृत्ति के गुणों से सृजित होते हैं।",
 );
 ```
 <p align="center">
