@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 14,
-    shloka: "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: |न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते || 14||",
-    translation: "5.14: Neither the sense of doership nor the nature of actions comes from God; nor does He create the fruits of actions. All this is enacted by the modes of material nature (guṇas).",
-    hindi_translation: "5.14: न तो कर्त्तापन का बोध और न ही कर्मों की प्रवृत्ति भगवान से प्राप्त होती है तथा न ही वे कर्मों के फल का सृजन करते हैं। यह सब प्रकृत्ति के गुणों से सृजित होते हैं।",
+    chapter: 10,
+    verse: 24,
+    shloka: "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |सेनानीनामहं स्कन्द: सरसामस्मि सागर: || 24||",
+    translation: "10.24: O Arjun, amongst priests, I am Brihaspati; amongst warrior chiefs I am Kartikeya; and amongst reservoirs of water, know me to be the ocean.",
+    hindi_translation: "10.24: हे अर्जुन! पुरोहितों में मुझे बृहस्पति जानो और सेना नायकों में मैं कार्तिकेय हूँ और सभी जलाशयों में समुद्र हूँ।",
 );
 ```
 <p align="center">
