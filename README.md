@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 26,
-    shloka: "तत्रापश्यत्स्थितान् पार्थ: पितृ नथ पितामहान् |आचार्यान्मातुलान्भ्रातृ न्पुत्रान्पौत्रान्सखींस्तथा || 26||श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |",
-    translation: "1.26: There, Arjun could see stationed in both armies, his fathers, grandfathers, teachers, maternal uncles, brothers, cousins, sons, nephews, grand-nephews, friends, fathers-in-law, and well-wishers.",
-    hindi_translation: "1.26: अर्जुन ने वहाँ खड़ी दोनों पक्षों की सेनाओं के बीच अपने पिता तुल्य चाचाओं-ताऊओं, पितामहों, गुरुओं, मामाओं, भाइयों, चचेरे भाइयों, पुत्रों, भतीजों, मित्रों, ससुर, और शुभचिन्तकों को भी देखा।",
+    chapter: 16,
+    verse: 18,
+    shloka: "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: |मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयका: || 18||",
+    translation: "16.18: Blinded by egotism, strength, arrogance, desire, and anger, the demonic abuse my presence within their own body and in the bodies of others.",
+    hindi_translation: "16.18: अहंकार, शक्ति, दम्भ, कामना और क्रोध से अंधे असुर मनुष्य अपने शरीर के भीतर और अन्य लोगों के शरीरों के भीतर मेरी उपस्थिति की निंदा करते हैं।",
 );
 ```
 <p align="center">
