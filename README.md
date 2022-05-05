@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 18,
-    shloka: "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: |मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयका: || 18||",
-    translation: "16.18: Blinded by egotism, strength, arrogance, desire, and anger, the demonic abuse my presence within their own body and in the bodies of others.",
-    hindi_translation: "16.18: अहंकार, शक्ति, दम्भ, कामना और क्रोध से अंधे असुर मनुष्य अपने शरीर के भीतर और अन्य लोगों के शरीरों के भीतर मेरी उपस्थिति की निंदा करते हैं।",
+    chapter: 14,
+    verse: 17,
+    shloka: "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |प्रमादमोहौ तमसो भवतोऽज्ञानमेव च || 17||",
+    translation: "14.17: From the mode of goodness arises knowledge, from the mode of passion arises greed, and from the mode of ignorance arise negligence and delusion.",
+    hindi_translation: "14.17: सत्वगुण से ज्ञान उत्पन्न होता है, रजोगुण से लोभ और तमोगुण से अज्ञानता, प्रमाद और भ्रम उत्पन्न होता है।",
 );
 ```
 <p align="center">
