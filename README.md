@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 17,
-    shloka: "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |प्रमादमोहौ तमसो भवतोऽज्ञानमेव च || 17||",
-    translation: "14.17: From the mode of goodness arises knowledge, from the mode of passion arises greed, and from the mode of ignorance arise negligence and delusion.",
-    hindi_translation: "14.17: सत्वगुण से ज्ञान उत्पन्न होता है, रजोगुण से लोभ और तमोगुण से अज्ञानता, प्रमाद और भ्रम उत्पन्न होता है।",
+    chapter: 17,
+    verse: 5-6,
+    shloka: "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जना: |दम्भाहङ्कारसंयुक्ता: कामरागबलान्विता: || 5||कर्षयन्त: शरीरस्थं भूतग्राममचेतस: |मां चैवान्त:शरीरस्थं तान्विद्ध्यासुरनिश्चयान् || 6||",
+    translation: "17.5-6: Some people perform stern austerities that are not enjoined by the scriptures, but rather motivated by hypocrisy and egotism. Impelled by desire and attachment, they torment not only the elements of their body, but also I who dwell within them as the Supreme Soul. Know these senseless people to be of demoniacal resolves.",
+    hindi_translation: "17.5-6: कुछ लोग अहंकार और दंभ से अभिप्रेरित होकर धर्मग्रंथों की आज्ञाओं के विरुद्ध कठोर तपस्या करते हैं। कामना और आसक्ति से प्रेरित होकर वे न केवल अपने शरीर के अंगों को कष्ट देते हैं बल्कि मुझे, जो उनके शरीर में परमात्मा के रूप में स्थित रहता हूँ, को भी कष्ट पहुँचाते हैं। ऐसे मूर्ख लोगों को पैशाचिक प्रवृति वाला कहा जाता है।",
 );
 ```
 <p align="center">
