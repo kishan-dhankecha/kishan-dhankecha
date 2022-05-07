@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 5-6,
-    shloka: "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जना: |दम्भाहङ्कारसंयुक्ता: कामरागबलान्विता: || 5||कर्षयन्त: शरीरस्थं भूतग्राममचेतस: |मां चैवान्त:शरीरस्थं तान्विद्ध्यासुरनिश्चयान् || 6||",
-    translation: "17.5-6: Some people perform stern austerities that are not enjoined by the scriptures, but rather motivated by hypocrisy and egotism. Impelled by desire and attachment, they torment not only the elements of their body, but also I who dwell within them as the Supreme Soul. Know these senseless people to be of demoniacal resolves.",
-    hindi_translation: "17.5-6: कुछ लोग अहंकार और दंभ से अभिप्रेरित होकर धर्मग्रंथों की आज्ञाओं के विरुद्ध कठोर तपस्या करते हैं। कामना और आसक्ति से प्रेरित होकर वे न केवल अपने शरीर के अंगों को कष्ट देते हैं बल्कि मुझे, जो उनके शरीर में परमात्मा के रूप में स्थित रहता हूँ, को भी कष्ट पहुँचाते हैं। ऐसे मूर्ख लोगों को पैशाचिक प्रवृति वाला कहा जाता है।",
+    chapter: 4,
+    verse: 33,
+    shloka: "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञ: परन्तप |सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते || 33||",
+    translation: "4.33: O subduer of enemies, sacrifice performed in knowledge is superior to any mechanical material sacrifice. After all, O Parth, all sacrifices of work culminate in knowledge.",
+    hindi_translation: "4.33: हे शत्रुओं के दमन कर्ता! ज्ञान युक्त होकर किया गया यज्ञ किसी प्रकार के भौतिक या द्रव्य यज्ञ से श्रेष्ठ है। हे पार्थ! अंततः सभी यज्ञों की पराकाष्ठा दिव्य ज्ञान में होती है।",
 );
 ```
 <p align="center">
