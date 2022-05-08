@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 33,
-    shloka: "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञ: परन्तप |सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते || 33||",
-    translation: "4.33: O subduer of enemies, sacrifice performed in knowledge is superior to any mechanical material sacrifice. After all, O Parth, all sacrifices of work culminate in knowledge.",
-    hindi_translation: "4.33: हे शत्रुओं के दमन कर्ता! ज्ञान युक्त होकर किया गया यज्ञ किसी प्रकार के भौतिक या द्रव्य यज्ञ से श्रेष्ठ है। हे पार्थ! अंततः सभी यज्ञों की पराकाष्ठा दिव्य ज्ञान में होती है।",
+    chapter: 7,
+    verse: 29,
+    shloka: "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |ते ब्रह्म तद्विदु: कृत्स्नमध्यात्मं कर्म चाखिलम् || 29||",
+    translation: "7.29: Those who take shelter in Me, striving for liberation from old-age and death, come to know Brahman, the individual self, and the entire field of karmic action.",
+    hindi_translation: "7.29: जो मेरी शरण ग्रहण करते हैं, वे बुढ़ापे और मृत्यु से छुटकारा पाने की चेष्टा करते हैं, वे ब्रह्म, अपनी आत्मा और समस्त कार्मिक गतिविधियों के क्षेत्र को जान जाते हैं।",
 );
 ```
 <p align="center">
