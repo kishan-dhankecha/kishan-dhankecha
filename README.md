@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 29,
-    shloka: "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |ते ब्रह्म तद्विदु: कृत्स्नमध्यात्मं कर्म चाखिलम् || 29||",
-    translation: "7.29: Those who take shelter in Me, striving for liberation from old-age and death, come to know Brahman, the individual self, and the entire field of karmic action.",
-    hindi_translation: "7.29: जो मेरी शरण ग्रहण करते हैं, वे बुढ़ापे और मृत्यु से छुटकारा पाने की चेष्टा करते हैं, वे ब्रह्म, अपनी आत्मा और समस्त कार्मिक गतिविधियों के क्षेत्र को जान जाते हैं।",
+    chapter: 5,
+    verse: 5,
+    shloka: "यत्साङ्ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते |एकं साङ्ख्यं च योगं च य: पश्यति स पश्यति || 5||",
+    translation: "5.5: The supreme state that is attained by means of karm sanyās is also attained by working in devotion. Hence, those who see karm sanyās and karm yog to be identical, truly see things as they are.",
+    hindi_translation: "5.5: परमेश्वर श्रीकृष्ण कहते हैं कि कर्म संन्यास के माध्यम से जो प्राप्त होता है उसे भक्ति युक्त कर्मयोग से भी प्राप्त किया जा सकता है। इस प्रकार जो कर्म संन्यास और कर्मयोग को एक समान देखते हैं वही वास्तव में सभी वस्तुओं को यथावत रूप में देखते हैं।",
 );
 ```
 <p align="center">
