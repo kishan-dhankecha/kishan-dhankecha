@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 18,
-    shloka: "कर्मण्यकर्म य: पश्येदकर्मणि च कर्म य: |स बुद्धिमान्मनुष्येषु स युक्त: कृत्स्नकर्मकृत् || 18||",
-    translation: "4.18: Those who see action in inaction and inaction in action are truly wise amongst humans. Although performing all kinds of actions, they are yogis and masters of all their actions.",
-    hindi_translation: "4.18: वे मनुष्य जो अकर्म में कर्म और कर्म में अकर्म को देखते हैं। वे सभी मनुष्यों में बुद्धिमान होते हैं। सभी प्रकार के कर्मों में प्रवृत्त रहकर भी वे योगी कहलाते हैं और अपने सभी कर्मों में पारंगत होते हैं।",
+    chapter: 18,
+    verse: 4,
+    shloka: "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम |त्यागो हि पुरुषव्याघ्र त्रिविध: सम्प्रकीर्तित: || 4||",
+    translation: "18.4: Now hear my conclusion on the subject of renunciation, O tiger amongst men, for renunciation has been declared to be of three kinds.",
+    hindi_translation: "18.4: हे भरतश्रेष्ठ! अब त्याग के विषय में मेरा अंतिम निर्णय सुनो। हे मनुष्यों में सिंह! त्याग के लिए तीन प्रकार की श्रेणियों का वर्णन किया गया है।",
 );
 ```
 <p align="center">
