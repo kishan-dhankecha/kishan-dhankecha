@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 1,
-    shloka: "अर्जुन उवाच |प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च |एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव || 1||* 1",
-    translation: "13.1: Arjun said, “O Keshav, I wish to understand what are prakṛiti and puruṣh, and what are kṣhetra and kṣhetrajña? I also wish to know what is true knowledge, and what is the goal of this knowledge?",
-    hindi_translation: "13.1: अर्जुन ने कहा-हे केशव! मैं यह जानने का इच्छुक हूँ कि प्रकृति क्या है और पुरुष क्या है तथा क्षेत्र और क्षेत्रज्ञ क्या है? मैं यह भी जानना चाहता हूँ कि सच्चा ज्ञान क्या है और इस ज्ञान का लक्ष्य क्या है?",
+    chapter: 18,
+    verse: 67,
+    shloka: "इदं ते नातपस्काय नाभक्ताय कदाचन |न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति || 67||",
+    translation: "18.67: This instruction should never be explained to those who are not austere or to those who are not devoted. It should also not be spoken to those who are averse to listening (to spiritual topics), and especially not to those who are envious of me.",
+    hindi_translation: "18.67: यह उपदेश उन्हें कभी नहीं सुनाना चाहिए जो न तो संयमी है और न ही उन्हें जो भक्त नहीं हैं। इसे उन्हें भी नहीं सुनाना चाहिए जो आध्यात्मिक विषयों को सुनने के इच्छुक नहीं हैं और विशेष रूप से उन्हें भी नहीं सुनाना चाहिए जो मेरे प्रति द्वेष रखते हैं।",
 );
 ```
 <p align="center">
