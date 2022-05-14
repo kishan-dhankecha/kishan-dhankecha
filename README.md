@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 67,
-    shloka: "इदं ते नातपस्काय नाभक्ताय कदाचन |न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति || 67||",
-    translation: "18.67: This instruction should never be explained to those who are not austere or to those who are not devoted. It should also not be spoken to those who are averse to listening (to spiritual topics), and especially not to those who are envious of me.",
-    hindi_translation: "18.67: यह उपदेश उन्हें कभी नहीं सुनाना चाहिए जो न तो संयमी है और न ही उन्हें जो भक्त नहीं हैं। इसे उन्हें भी नहीं सुनाना चाहिए जो आध्यात्मिक विषयों को सुनने के इच्छुक नहीं हैं और विशेष रूप से उन्हें भी नहीं सुनाना चाहिए जो मेरे प्रति द्वेष रखते हैं।",
+    chapter: 3,
+    verse: 7,
+    shloka: "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन |कर्मेन्द्रियै: कर्मयोगमसक्त: स विशिष्यते || 7||",
+    translation: "3.7: But those karm yogis who control their knowledge senses with the mind, O Arjun, and engage the working senses in working without attachment, are certainly superior.",
+    hindi_translation: "3.7: हे अर्जुन! लेकिन वे कर्मयोगी जो मन से अपनी ज्ञानेन्द्रियों को नियंत्रित करते हैं और कर्मेन्द्रियों से बिना किसी आसक्ति के कर्म में संलग्न रहते हैं, वे वास्तव में श्रेष्ठ हैं।",
 );
 ```
 <p align="center">
