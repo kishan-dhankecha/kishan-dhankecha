@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 7,
-    shloka: "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन |कर्मेन्द्रियै: कर्मयोगमसक्त: स विशिष्यते || 7||",
-    translation: "3.7: But those karm yogis who control their knowledge senses with the mind, O Arjun, and engage the working senses in working without attachment, are certainly superior.",
-    hindi_translation: "3.7: हे अर्जुन! लेकिन वे कर्मयोगी जो मन से अपनी ज्ञानेन्द्रियों को नियंत्रित करते हैं और कर्मेन्द्रियों से बिना किसी आसक्ति के कर्म में संलग्न रहते हैं, वे वास्तव में श्रेष्ठ हैं।",
+    chapter: 5,
+    verse: 17,
+    shloka: "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: |गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषा: || 17||",
+    translation: "5.17: Those whose intellect is fixed in God, who are completely absorbed in God, with firm faith in Him as the supreme goal, such persons quickly reach the state from which there is no return, their sins having been dispelled by the light of knowledge.",
+    hindi_translation: "5.17: वे जिनकी बुद्धि भगवान में स्थिर हो जाती है और जो भगवान में सच्ची श्रद्धा रखकर उन्हें परम लक्ष्य मानकर उनमें पूर्णतया तल्लीन हो जाते हैं, वे मनुष्य शीघ्र ऐसी अवस्था में पहुँच जाते हैं जहाँ से फिर कभी वापस नहीं आते और उनके सभी पाप ज्ञान के प्रकाश से मिट जाते हैं।",
 );
 ```
 <p align="center">
