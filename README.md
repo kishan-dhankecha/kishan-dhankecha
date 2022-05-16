@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 17,
-    shloka: "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: |गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषा: || 17||",
-    translation: "5.17: Those whose intellect is fixed in God, who are completely absorbed in God, with firm faith in Him as the supreme goal, such persons quickly reach the state from which there is no return, their sins having been dispelled by the light of knowledge.",
-    hindi_translation: "5.17: वे जिनकी बुद्धि भगवान में स्थिर हो जाती है और जो भगवान में सच्ची श्रद्धा रखकर उन्हें परम लक्ष्य मानकर उनमें पूर्णतया तल्लीन हो जाते हैं, वे मनुष्य शीघ्र ऐसी अवस्था में पहुँच जाते हैं जहाँ से फिर कभी वापस नहीं आते और उनके सभी पाप ज्ञान के प्रकाश से मिट जाते हैं।",
+    chapter: 14,
+    verse: 16,
+    shloka: "कर्मण: सुकृतस्याहु: सात्त्विकं निर्मलं फलम् |रजसस्तु फलं दु:खमज्ञानं तमस: फलम् || 16||",
+    translation: "14.16: It is said the fruit of actions performed in the mode of goodness bestow pure results. Actions done in the mode of passion result in pain, while those performed in the mode of ignorance result in darkness.",
+    hindi_translation: "14.16: ऐसा कहा जाता है कि सत्वगुण में सम्पन्न किए गये कार्य शुभ फल प्रदान करते हैं, रजोगुण के प्रभाव में किए गये कर्मों का परिणाम पीड़ादायक होता है तथा तमोगुण से सम्पन्न किए गए कार्यों का परिणाम अंधकार है।",
 );
 ```
 <p align="center">
