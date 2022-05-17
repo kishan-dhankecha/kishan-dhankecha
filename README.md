@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 16,
-    shloka: "कर्मण: सुकृतस्याहु: सात्त्विकं निर्मलं फलम् |रजसस्तु फलं दु:खमज्ञानं तमस: फलम् || 16||",
-    translation: "14.16: It is said the fruit of actions performed in the mode of goodness bestow pure results. Actions done in the mode of passion result in pain, while those performed in the mode of ignorance result in darkness.",
-    hindi_translation: "14.16: ऐसा कहा जाता है कि सत्वगुण में सम्पन्न किए गये कार्य शुभ फल प्रदान करते हैं, रजोगुण के प्रभाव में किए गये कर्मों का परिणाम पीड़ादायक होता है तथा तमोगुण से सम्पन्न किए गए कार्यों का परिणाम अंधकार है।",
+    chapter: 12,
+    verse: 12,
+    shloka: "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् || 12||",
+    translation: "12.12: Better than mechanical practice is knowledge; better than knowledge is meditation. Better than meditation is renunciation of the fruits of actions, for peace immediately follows such renunciation.",
+    hindi_translation: "12.12: शारीरिक अभ्यास से श्रेष्ठ ज्ञान है, ज्ञान से श्रेष्ठ ध्यान है और ध्यान से श्रेष्ठ कर्म फलों का परित्याग है और ऐसे त्याग से शीघ्र मन को शांति प्राप्त होती है।",
 );
 ```
 <p align="center">
