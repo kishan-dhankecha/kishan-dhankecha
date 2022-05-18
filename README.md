@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 12,
-    shloka: "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् || 12||",
-    translation: "12.12: Better than mechanical practice is knowledge; better than knowledge is meditation. Better than meditation is renunciation of the fruits of actions, for peace immediately follows such renunciation.",
-    hindi_translation: "12.12: शारीरिक अभ्यास से श्रेष्ठ ज्ञान है, ज्ञान से श्रेष्ठ ध्यान है और ध्यान से श्रेष्ठ कर्म फलों का परित्याग है और ऐसे त्याग से शीघ्र मन को शांति प्राप्त होती है।",
+    chapter: 17,
+    verse: 23,
+    shloka: "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविध: स्मृत: |ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिता: पुरा || 23||",
+    translation: "17.23: The words “Om Tat Sat” have been declared as symbolic representations of the Supreme Absolute Truth, from the beginning of creation. From them came the priests, scriptures, and sacrifice.",
+    hindi_translation: "17.23: सृष्टि के आरंभ से 'ॐ-तत्-सत्' शब्दों को सर्वोच्च परम सत्य की प्रतीकात्मक अभिव्यक्ति माना है। इन्हीं में से पुरोहित (ब्राह्मण) शास्त्र तथा यज्ञ शब्द की उत्पत्ति हुई है।",
 );
 ```
 <p align="center">
