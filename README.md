@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 23,
-    shloka: "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविध: स्मृत: |ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिता: पुरा || 23||",
-    translation: "17.23: The words “Om Tat Sat” have been declared as symbolic representations of the Supreme Absolute Truth, from the beginning of creation. From them came the priests, scriptures, and sacrifice.",
-    hindi_translation: "17.23: सृष्टि के आरंभ से 'ॐ-तत्-सत्' शब्दों को सर्वोच्च परम सत्य की प्रतीकात्मक अभिव्यक्ति माना है। इन्हीं में से पुरोहित (ब्राह्मण) शास्त्र तथा यज्ञ शब्द की उत्पत्ति हुई है।",
+    chapter: 11,
+    verse: 17,
+    shloka: "किरीटिनं गदिनं चक्रिणं चतेजोराशिं सर्वतो दीप्तिमन्तम् |पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्दीप्तानलार्कद्युतिमप्रमेयम् || 17||",
+    translation: "11.17: I see your form, adorned with a crown, and armed with the club and disc, shining everywhere as the abode of splendor. It is hard to look upon you in the blazing fire of your effulgence, which is radiating like the sun in all directions.",
+    hindi_translation: "11.17: विश्व रूप दर्शन योग मैं मुकुट से सुशोभित चक्र और गदा से सुसज्जित शस्त्रों के साथ सर्वत्र दीप्तिमान लोक के रूप में आपके रूप को देख रहा हूँ। इस चमचमाती अग्नि में आपके तेज को देख पाना कठिन है जो सभी दिशाओं से प्रस्फुटित होने वाले सूर्य के प्रकाश की भांति है।",
 );
 ```
 <p align="center">
