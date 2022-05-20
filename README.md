@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 17,
-    shloka: "किरीटिनं गदिनं चक्रिणं चतेजोराशिं सर्वतो दीप्तिमन्तम् |पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्दीप्तानलार्कद्युतिमप्रमेयम् || 17||",
-    translation: "11.17: I see your form, adorned with a crown, and armed with the club and disc, shining everywhere as the abode of splendor. It is hard to look upon you in the blazing fire of your effulgence, which is radiating like the sun in all directions.",
-    hindi_translation: "11.17: विश्व रूप दर्शन योग मैं मुकुट से सुशोभित चक्र और गदा से सुसज्जित शस्त्रों के साथ सर्वत्र दीप्तिमान लोक के रूप में आपके रूप को देख रहा हूँ। इस चमचमाती अग्नि में आपके तेज को देख पाना कठिन है जो सभी दिशाओं से प्रस्फुटित होने वाले सूर्य के प्रकाश की भांति है।",
+    chapter: 6,
+    verse: 38,
+    shloka: "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि || 38||",
+    translation: "6.38: Does not such a person who deviates from Yog get deprived of both material and spiritual success, O mighty-armed Krishna, and perish like a broken cloud with no position in either sphere?",
+    hindi_translation: "6.38: हे महाबाहु कृष्ण! क्या योग से पथ भ्रष्ट ऐसा व्यक्ति भौतिक एवं आध्यात्मिक सफलताओं से वंचित नहीं होता और छिन्न-भिन्न बादलों की भाँति नष्ट नहीं हो जाता जिसके परिणामस्वरूप वह किसी भी लोक में स्थान नहीं पाता?",
 );
 ```
 <p align="center">
