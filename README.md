@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 38,
-    shloka: "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि || 38||",
-    translation: "6.38: Does not such a person who deviates from Yog get deprived of both material and spiritual success, O mighty-armed Krishna, and perish like a broken cloud with no position in either sphere?",
-    hindi_translation: "6.38: हे महाबाहु कृष्ण! क्या योग से पथ भ्रष्ट ऐसा व्यक्ति भौतिक एवं आध्यात्मिक सफलताओं से वंचित नहीं होता और छिन्न-भिन्न बादलों की भाँति नष्ट नहीं हो जाता जिसके परिणामस्वरूप वह किसी भी लोक में स्थान नहीं पाता?",
+    chapter: 7,
+    verse: 11,
+    shloka: "बलं बलवतां चाहं कामरागविवर्जितम् |धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||",
+    translation: "7.11: O best of the Bharatas, in strong persons, I am their strength devoid of desire and passion. I am sexual activity not conflicting with virtue or scriptural injunctions.",
+    hindi_translation: "7.11: हे भरत श्रेष्ठ! मैं बलवान पुरुषों का काम और आसक्ति रहित बल हूँ। मैं वो काम हूँ जो धर्म या धर्म ग्रंथों की आज्ञाओं के विरुद्ध नहीं है।",
 );
 ```
 <p align="center">
