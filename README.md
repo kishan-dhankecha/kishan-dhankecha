@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 11,
-    shloka: "बलं बलवतां चाहं कामरागविवर्जितम् |धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||",
-    translation: "7.11: O best of the Bharatas, in strong persons, I am their strength devoid of desire and passion. I am sexual activity not conflicting with virtue or scriptural injunctions.",
-    hindi_translation: "7.11: हे भरत श्रेष्ठ! मैं बलवान पुरुषों का काम और आसक्ति रहित बल हूँ। मैं वो काम हूँ जो धर्म या धर्म ग्रंथों की आज्ञाओं के विरुद्ध नहीं है।",
+    chapter: 2,
+    verse: 68,
+    shloka: "तस्माद्यस्य महाबाहो निगृहीतानि सर्वश: |इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || 68||",
+    translation: "2.68: Therefore, one who has restrained the senses from their objects, O mighty armed Arjun, is firmly established in transcendental knowledge.",
+    hindi_translation: "2.68: इसलिए हे महाबाहु। जो मनुष्य इन्द्रियों के विषय भोगों से विरक्त रहता है, वह दृढ़ता से लोकातीत ज्ञान से युक्त हो जाता है।",
 );
 ```
 <p align="center">
