@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 2,
-    verse: 68,
-    shloka: "तस्माद्यस्य महाबाहो निगृहीतानि सर्वश: |इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || 68||",
-    translation: "2.68: Therefore, one who has restrained the senses from their objects, O mighty armed Arjun, is firmly established in transcendental knowledge.",
-    hindi_translation: "2.68: इसलिए हे महाबाहु। जो मनुष्य इन्द्रियों के विषय भोगों से विरक्त रहता है, वह दृढ़ता से लोकातीत ज्ञान से युक्त हो जाता है।",
+    verse: 24,
+    shloka: "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: || 24||",
+    translation: "2.24: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.",
+    hindi_translation: "2.24: आत्मा अखंडित और अज्वलनशील है, इसे न तो गीला किया जा सकता है और न ही सुखाया जा सकता है। यह आत्मा शाश्वत, सर्वव्यापी, अपरिर्वतनीय, अचल और अनादि है।",
 );
 ```
 <p align="center">
