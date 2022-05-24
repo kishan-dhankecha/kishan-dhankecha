@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 24,
-    shloka: "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: || 24||",
-    translation: "2.24: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.",
-    hindi_translation: "2.24: आत्मा अखंडित और अज्वलनशील है, इसे न तो गीला किया जा सकता है और न ही सुखाया जा सकता है। यह आत्मा शाश्वत, सर्वव्यापी, अपरिर्वतनीय, अचल और अनादि है।",
+    chapter: 1,
+    verse: 47,
+    shloka: "सञ्जय उवाच |एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत् |विसृज्य सशरं चापं शोकसंविग्नमानस: || 47||",
+    translation: "1.47: Sanjay said: Speaking thus, Arjun cast aside his bow and arrows, and sank into the seat of his chariot, his mind in distress and overwhelmed with grief.",
+    hindi_translation: "1.47: संजय ने कहा-इस प्रकार यह कह कर अर्जुन ने अपना धनुष और बाणों को एक ओर रख दिया और शोकाकुल चित्त से अपने रथ के आसन पर बैठ गया, उसका मन व्यथा और दुख से भर गया।",
 );
 ```
 <p align="center">
