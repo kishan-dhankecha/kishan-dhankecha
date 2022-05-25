@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 1,
-    verse: 47,
-    shloka: "सञ्जय उवाच |एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत् |विसृज्य सशरं चापं शोकसंविग्नमानस: || 47||",
-    translation: "1.47: Sanjay said: Speaking thus, Arjun cast aside his bow and arrows, and sank into the seat of his chariot, his mind in distress and overwhelmed with grief.",
-    hindi_translation: "1.47: संजय ने कहा-इस प्रकार यह कह कर अर्जुन ने अपना धनुष और बाणों को एक ओर रख दिया और शोकाकुल चित्त से अपने रथ के आसन पर बैठ गया, उसका मन व्यथा और दुख से भर गया।",
+    verse: 38-39,
+    shloka: "यद्यप्येते न पश्यन्ति लोभोपहतचेतस: |कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् || 38||कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् |कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन || 39||",
+    translation: "1.38-39: Their thoughts are overpowered by greed and they see no wrong in annihilating their relatives or wreaking treachery upon friends. Yet, O Janardan (Krishna), why should we, who can clearly see the crime in killing our kindred, not turn away from this sin?",
+    hindi_translation: "1.38-39: यद्यपि लोभ से अभिभूत विचारधारा के कारण वे अपने स्वजनों के विनाश या प्रतिशोध के कारण और अपने मित्रों के साथ विश्वासघात करने में कोई दोष नही देखते हैं। तथापि हे जनार्दन! जब हमें स्पष्टतः अपने बंधु बान्धवों का वध करने में अपराध दिखाई देता है तब हम ऐसे पापमय कर्म से क्यों न दूर रहें?",
 );
 ```
 <p align="center">
