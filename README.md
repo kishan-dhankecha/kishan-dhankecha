@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 38-39,
-    shloka: "यद्यप्येते न पश्यन्ति लोभोपहतचेतस: |कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् || 38||कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् |कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन || 39||",
-    translation: "1.38-39: Their thoughts are overpowered by greed and they see no wrong in annihilating their relatives or wreaking treachery upon friends. Yet, O Janardan (Krishna), why should we, who can clearly see the crime in killing our kindred, not turn away from this sin?",
-    hindi_translation: "1.38-39: यद्यपि लोभ से अभिभूत विचारधारा के कारण वे अपने स्वजनों के विनाश या प्रतिशोध के कारण और अपने मित्रों के साथ विश्वासघात करने में कोई दोष नही देखते हैं। तथापि हे जनार्दन! जब हमें स्पष्टतः अपने बंधु बान्धवों का वध करने में अपराध दिखाई देता है तब हम ऐसे पापमय कर्म से क्यों न दूर रहें?",
+    chapter: 3,
+    verse: 20-21,
+    shloka: "कर्मणैव हि संसिद्धिमास्थिता जनकादय: |लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि || 20||यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते || 21||",
+    translation: "3.20-21: By performing their prescribed duties, King Janak and others attained perfection. You should also perform your duties to set an example for the good of the world. Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues.",
+    hindi_translation: "3.20-21: राजा जनक और अन्य महापुरुषों ने अपने नियत कर्मों का पालन करते हुए सिद्धि प्राप्त की थी इसलिए तुम्हें भी अपने कर्तव्यों का निर्वाहन करते हुए समाज के कल्याण के लिए अनुकरणीय उदाहरण प्रस्तुत करना चाहिए। महापुरुष जो भी कर्म करते हैं, सामान्य जन उनका पालन करते हैं, वे जो भी आदर्श स्थापित करते हैं, सारा संसार उनका अनुसरण करता है।",
 );
 ```
 <p align="center">
