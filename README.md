@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 20-21,
-    shloka: "कर्मणैव हि संसिद्धिमास्थिता जनकादय: |लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि || 20||यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते || 21||",
-    translation: "3.20-21: By performing their prescribed duties, King Janak and others attained perfection. You should also perform your duties to set an example for the good of the world. Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues.",
-    hindi_translation: "3.20-21: राजा जनक और अन्य महापुरुषों ने अपने नियत कर्मों का पालन करते हुए सिद्धि प्राप्त की थी इसलिए तुम्हें भी अपने कर्तव्यों का निर्वाहन करते हुए समाज के कल्याण के लिए अनुकरणीय उदाहरण प्रस्तुत करना चाहिए। महापुरुष जो भी कर्म करते हैं, सामान्य जन उनका पालन करते हैं, वे जो भी आदर्श स्थापित करते हैं, सारा संसार उनका अनुसरण करता है।",
+    chapter: 10,
+    verse: 18,
+    shloka: "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |भूय: कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् || 18||",
+    translation: "10.18: Tell me again in detail your divine glories and manifestations, O Janardan. I can never tire of hearing your nectar.",
+    hindi_translation: "10.18: हे जनार्दन! कृपया मुझे पुनः अपनी दिव्य महिमा, वैभवों और अभिव्यक्तियों के संबंध में विस्तृत रूप से बताएँ, मैं आपकी अमृत वाणी को सुनकर कभी तृप्त नहीं हो सकता।",
 );
 ```
 <p align="center">
