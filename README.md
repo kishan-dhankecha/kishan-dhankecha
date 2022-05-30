@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 23,
-    shloka: "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वर: |परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुष: पर: || 23||",
-    translation: "13.23: Within the body also resides the Supreme Lord. He is said to be the Witness, the Permitter, the Supporter, Transcendental Enjoyer, the ultimate Controller, and the Paramātmā (Supreme Soul).",
-    hindi_translation: "13.23: इस शरीर में परमेश्वर भी रहता है। उसे साक्षी, अनुमति प्रदान करने वाला, सहायक, परम भोक्ता, परम नियन्ता और परमात्मा कहा जाता है।",
+    chapter: 11,
+    verse: 14,
+    shloka: "तत: स विस्मयाविष्टो हृष्टरोमा धनञ्जय: |प्रणम्य शिरसा देवं कृताञ्जलिरभाषत || 14||",
+    translation: "11.14: Then, Arjun, full of wonder and with hair standing on end, bowed his head with folded hands before the Lord and addressed him thus.",
+    hindi_translation: "11.14: विश्व रूप दर्शन योग तब आश्चर्य में डूबे अर्जुन के शरीर के रोंगटे खड़े हो गए और वह मस्तक को झुकाए भगवान के समक्ष हाथ जोड़कर इस प्रकार प्रार्थना करने लगा।",
 );
 ```
 <p align="center">
