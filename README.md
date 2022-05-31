@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 14,
-    shloka: "तत: स विस्मयाविष्टो हृष्टरोमा धनञ्जय: |प्रणम्य शिरसा देवं कृताञ्जलिरभाषत || 14||",
-    translation: "11.14: Then, Arjun, full of wonder and with hair standing on end, bowed his head with folded hands before the Lord and addressed him thus.",
-    hindi_translation: "11.14: विश्व रूप दर्शन योग तब आश्चर्य में डूबे अर्जुन के शरीर के रोंगटे खड़े हो गए और वह मस्तक को झुकाए भगवान के समक्ष हाथ जोड़कर इस प्रकार प्रार्थना करने लगा।",
+    chapter: 1,
+    verse: 1,
+    shloka: "धृतराष्ट्र उवाच |धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||",
+    translation: "1.1: Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+    hindi_translation: "1.1: धृतराष्ट्र ने कहाः हे संजय! कुरुक्षेत्र की पवित्र भूमि पर युद्ध करने की इच्छा से एकत्रित होने के पश्चात, मेरे और पाण्डु पुत्रों ने क्या किया?",
 );
 ```
 <p align="center">
