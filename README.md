@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 1,
-    shloka: "धृतराष्ट्र उवाच |धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||",
-    translation: "1.1: Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
-    hindi_translation: "1.1: धृतराष्ट्र ने कहाः हे संजय! कुरुक्षेत्र की पवित्र भूमि पर युद्ध करने की इच्छा से एकत्रित होने के पश्चात, मेरे और पाण्डु पुत्रों ने क्या किया?",
+    chapter: 11,
+    verse: 31,
+    shloka: "आख्याहि मे को भवानुग्ररूपोनमोऽस्तु ते देववर प्रसीद |विज्ञातुमिच्छामि भवन्तमाद्यंन हि प्रजानामि तव प्रवृत्तिम् || 31||",
+    translation: "11.31: Tell me who you are, so fierce of form. O God of gods, I bow before you; please bestow your mercy on me. You, who existed before all creation, I wish to know who you are, for I do not comprehend your nature and workings.",
+    hindi_translation: "11.31: हे देवेश! कृपया मुझे बताएं कि अति उग्र रूप में आप कौन हैं? मैं आपको प्रणाम करता हूँ। कृपया मुझ पर करुणा करें। आप समस्त सृष्टियों से पूर्व आदि भगवान हैं। मैं आपको जानना चाहता हूँ और मैं आपकी प्रकृति और प्रयोजन को नहीं समझ पा रहा हूँ।",
 );
 ```
 <p align="center">
