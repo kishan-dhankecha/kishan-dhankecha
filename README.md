@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 41-42,
-    shloka: "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वती: समा: |शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते || 41||अथवा योगिनामेव कुले भवति धीमताम् |एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् || 42||",
-    translation: "6.41-42: The unsuccessful yogis, upon death, go to the abodes of the virtuous. After dwelling there for many ages, they are again reborn in the earth plane, into a family of pious and prosperous people. Else, if they had developed dispassion due to long practice of Yog, they are born into a family endowed with divine wisdom. Such a birth is very difficult to attain in this world.",
-    hindi_translation: "6.41-42: असफल योगी मृत्यु के पश्चात पुण्य आत्माओं के लोक में जाते हैं। अनेक वर्षों तक वहाँ निवास करने के पश्चात वे पृथ्वी पर कुलीन या धनवानों के कुल में पुनः जन्म लेते हैं अथवा जब वे दीर्घकाल तक योग के अभ्यास से उदासीन हो चुके होते हैं तब उनका जन्म दिव्य ज्ञान से सम्पन्न परिवारों में होता है। संसार में ऐसा जन्म अत्यंत दुर्लभ है।",
+    chapter: 11,
+    verse: 46,
+    shloka: "किरीटिनं गदिनं चक्रहस्त-मिच्छामि त्वां द्रष्टुमहं तथैव |तेनैव रूपेण चतुर्भुजेनसहस्रबाहो भव विश्वमूर्ते || 46||",
+    translation: "11.46: O thousand-armed one, though you are the embodiment of all creation, I wish to see you in your four-armed form, carrying the mace and disc, and wearing the crown.",
+    hindi_translation: "11.46: हे सहस्र बाहु! यद्यपि आप समस्त सृष्टि में अभिव्यक्त हैं किन्तु मैं तुम्हारे मुकुटधारी चक्र और गदा उठाए हुए चतुर्भुज नारायण रूप के दर्शन करना चाहता हूँ।",
 );
 ```
 <p align="center">
