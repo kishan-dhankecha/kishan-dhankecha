@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 46,
-    shloka: "किरीटिनं गदिनं चक्रहस्त-मिच्छामि त्वां द्रष्टुमहं तथैव |तेनैव रूपेण चतुर्भुजेनसहस्रबाहो भव विश्वमूर्ते || 46||",
-    translation: "11.46: O thousand-armed one, though you are the embodiment of all creation, I wish to see you in your four-armed form, carrying the mace and disc, and wearing the crown.",
-    hindi_translation: "11.46: हे सहस्र बाहु! यद्यपि आप समस्त सृष्टि में अभिव्यक्त हैं किन्तु मैं तुम्हारे मुकुटधारी चक्र और गदा उठाए हुए चतुर्भुज नारायण रूप के दर्शन करना चाहता हूँ।",
+    chapter: 9,
+    verse: 23,
+    shloka: "येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विता: |तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् || 23||",
+    translation: "9.23: O son of Kunti, even those devotees who faithfully worship other gods also worship Me. But they do so by the wrong method.",
+    hindi_translation: "9.23: हे कुन्ती पुत्र! जो श्रद्धापूर्वक अन्य देवताओं की पूजा करते हैं, वे मेरी भी पूजा करते हैं। लेकिन वे यह सब अनुचित ढंग से करते हैं।",
 );
 ```
 <p align="center">
