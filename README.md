@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 23,
-    shloka: "येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विता: |तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् || 23||",
-    translation: "9.23: O son of Kunti, even those devotees who faithfully worship other gods also worship Me. But they do so by the wrong method.",
-    hindi_translation: "9.23: हे कुन्ती पुत्र! जो श्रद्धापूर्वक अन्य देवताओं की पूजा करते हैं, वे मेरी भी पूजा करते हैं। लेकिन वे यह सब अनुचित ढंग से करते हैं।",
+    chapter: 5,
+    verse: 26,
+    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
+    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
+    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
 );
 ```
 <p align="center">
