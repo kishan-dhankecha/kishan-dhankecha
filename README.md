@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 5,
-    verse: 26,
-    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
-    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
-    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
+    verse: 7,
+    shloka: "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: |सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते || 7||",
+    translation: "5.7: The karm yogis, who are of purified intellect, and who control the mind and senses, see the Soul of all souls in every living being. Though performing all kinds of actions, they are never entangled.",
+    hindi_translation: "5.7: जो कर्मयोगी विशुद्ध बुद्धि युक्त हैं, अपने मन तथा इन्द्रियों को वश में रखते हैं और सभी जीवों की आत्मा में आत्मरूप परमात्मा को देखते हैं, वे सभी प्रकार के कर्म करते हुए कभी कर्मबंधन में नहीं पड़ते।",
 );
 ```
 <p align="center">
