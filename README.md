@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 7,
-    shloka: "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: |सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते || 7||",
-    translation: "5.7: The karm yogis, who are of purified intellect, and who control the mind and senses, see the Soul of all souls in every living being. Though performing all kinds of actions, they are never entangled.",
-    hindi_translation: "5.7: जो कर्मयोगी विशुद्ध बुद्धि युक्त हैं, अपने मन तथा इन्द्रियों को वश में रखते हैं और सभी जीवों की आत्मा में आत्मरूप परमात्मा को देखते हैं, वे सभी प्रकार के कर्म करते हुए कभी कर्मबंधन में नहीं पड़ते।",
+    chapter: 1,
+    verse: 14,
+    shloka: "तत: श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: || 14||",
+    translation: "1.14: Then, from amidst the Pandava army, seated in a glorious chariot drawn by white horses, Madhav and Arjun blew their Divine conch shells.",
+    hindi_translation: "1.14: तत्पश्चात पाण्डवों की सेना के बीच श्वेत अश्वों द्वारा खींचे जाने वाले भव्य रथ पर आसीन माधव और अर्जुन ने अपने-अपने दिव्य शंख बजाये।",
 );
 ```
 <p align="center">
