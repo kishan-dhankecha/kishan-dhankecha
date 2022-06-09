@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 14,
-    shloka: "तत: श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: || 14||",
-    translation: "1.14: Then, from amidst the Pandava army, seated in a glorious chariot drawn by white horses, Madhav and Arjun blew their Divine conch shells.",
-    hindi_translation: "1.14: तत्पश्चात पाण्डवों की सेना के बीच श्वेत अश्वों द्वारा खींचे जाने वाले भव्य रथ पर आसीन माधव और अर्जुन ने अपने-अपने दिव्य शंख बजाये।",
+    chapter: 2,
+    verse: 25,
+    shloka: "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि || 25||",
+    translation: "2.25: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.",
+    hindi_translation: "2.25: इस आत्मा को अदृश्य, अचिंतनीय और अपरिवर्तनशील कहा गया है। यह जानकर हमें शरीर के लिए शोक प्रकट नहीं करना चाहिए।",
 );
 ```
 <p align="center">
