@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 25,
-    shloka: "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि || 25||",
-    translation: "2.25: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.",
-    hindi_translation: "2.25: इस आत्मा को अदृश्य, अचिंतनीय और अपरिवर्तनशील कहा गया है। यह जानकर हमें शरीर के लिए शोक प्रकट नहीं करना चाहिए।",
+    chapter: 14,
+    verse: 27,
+    shloka: "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च |शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च || 27||",
+    translation: "14.27: I am the basis of the formless Brahman, the immortal and imperishable, of eternal dharma, and of unending divine bliss.",
+    hindi_translation: "14.27: मैं ही उस निराकार ब्रह्म का आधार हूँ जो अमर, अविनाशी, शाश्वत धर्म और असीम दिव्य आनन्द है।",
 );
 ```
 <p align="center">
