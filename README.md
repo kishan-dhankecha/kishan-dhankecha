@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 2,
-    shloka: "श्रीभगवानुवाच |त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |सात्त्विकी राजसी चैव तामसी चेति तां शृणु || 2||",
-    translation: "17.2: The Supreme Divine Personality said: Every human being is born with innate faith, which can be of three kinds—sāttvic, rājasic, or tāmasic. Now hear about this from me.",
-    hindi_translation: "17.2: पुरुषोत्तम भगवान ने कहा-”प्रत्येक प्राणी स्वाभाविक रूप से श्रद्धा के साथ जन्म लेता है जो सात्विक, राजसिक अथवा तामसिक तीन प्रकार की हो सकती है। अब इस संबंध में मुझसे सुनो।”",
+    chapter: 6,
+    verse: 33,
+    shloka: "अर्जुन उवाच |योऽयं योगस्त्वया प्रोक्त: साम्येन मधुसूदन |एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् || 33||",
+    translation: "6.33: Arjun said: The system of Yog that you have described, O Madhusudan, appears impractical and unattainable to me, due to the restless mind.",
+    hindi_translation: "6.33: अर्जुन ने कहा-हे मधुसूदन! आपने जिस योगपद्धति का वर्णन किया वह मेरे लिए अव्यावहारिक और अप्राप्य है क्योंकि मन चंचल है।",
 );
 ```
 <p align="center">
