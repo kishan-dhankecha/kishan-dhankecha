@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 33,
-    shloka: "अर्जुन उवाच |योऽयं योगस्त्वया प्रोक्त: साम्येन मधुसूदन |एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् || 33||",
-    translation: "6.33: Arjun said: The system of Yog that you have described, O Madhusudan, appears impractical and unattainable to me, due to the restless mind.",
-    hindi_translation: "6.33: अर्जुन ने कहा-हे मधुसूदन! आपने जिस योगपद्धति का वर्णन किया वह मेरे लिए अव्यावहारिक और अप्राप्य है क्योंकि मन चंचल है।",
+    chapter: 2,
+    verse: 47,
+    shloka: "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 47 ||",
+    translation: "2.47: You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
+    hindi_translation: "2.47: तुम्हें अपने निश्चित कर्मों का पालन करने का अधिकार है लेकिन तुम अपने कर्मों का फल प्राप्त करने के अधिकारी नहीं हो, तुम स्वयं को अपने कर्मों के फलों का कारण मत मानो और न ही अकर्मा रहने में आसक्ति रखो।",
 );
 ```
 <p align="center">
