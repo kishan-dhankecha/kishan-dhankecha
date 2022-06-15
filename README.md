@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 15,
-    shloka: "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् |तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् || 15||",
-    translation: "3.15: The duties for human beings are described in the Vedas, and the Vedas are manifested by God himself. Therefore, the all-pervading Lord is eternally present in acts of sacrifice.",
-    hindi_translation: "3.15: वेदों में सभी जीवों के लिए कर्म निश्चित किए गए हैं और वेद परब्रह्म भगवान से प्रकट हुए हैं। परिणामस्वरूप सर्वव्यापक भगवान सभी यज्ञ कर्मों में नित्य व्याप्त रहते हैं।",
+    chapter: 2,
+    verse: 11,
+    shloka: "श्रीभगवानुवाच |अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: || 11||",
+    translation: "2.11: The Supreme Lord said: While you speak words of wisdom, you are mourning for that which is not worthy of grief. The wise lament neither for the living nor for the dead.",
+    hindi_translation: "2.11: परम भगवान ने कहा-तुम विद्वतापूर्ण वचन कहकर भी उनके लिए शोक कर रहे हो जो शोक के पात्र नहीं हैं। बुद्धिमान पुरुष न तो जीवित प्राणी के लिए शोक करते हैं और न ही मृत के लिए।",
 );
 ```
 <p align="center">
