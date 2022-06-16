@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 11,
-    shloka: "श्रीभगवानुवाच |अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: || 11||",
-    translation: "2.11: The Supreme Lord said: While you speak words of wisdom, you are mourning for that which is not worthy of grief. The wise lament neither for the living nor for the dead.",
-    hindi_translation: "2.11: परम भगवान ने कहा-तुम विद्वतापूर्ण वचन कहकर भी उनके लिए शोक कर रहे हो जो शोक के पात्र नहीं हैं। बुद्धिमान पुरुष न तो जीवित प्राणी के लिए शोक करते हैं और न ही मृत के लिए।",
+    chapter: 18,
+    verse: 57,
+    shloka: "चेतसा सर्वकर्माणि मयि सन्न्यस्य मत्पर: |बुद्धियोगमुपाश्रित्य मच्चित्त: सततं भव || 57||",
+    translation: "18.57: Dedicate your every activity to me, making me your supreme goal. Taking shelter of the Yog of the intellect, keep your consciousness absorbed in me always.",
+    hindi_translation: "18.57: अपने सभी कर्म मुझे समर्पित करो और मुझे ही अपना लक्ष्य मानो, बुद्धियोग का आश्रय लेकर अपनी चेतना को सदैव मुझमें लीन रखो।",
 );
 ```
 <p align="center">
