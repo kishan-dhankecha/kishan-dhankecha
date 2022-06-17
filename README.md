@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 57,
-    shloka: "चेतसा सर्वकर्माणि मयि सन्न्यस्य मत्पर: |बुद्धियोगमुपाश्रित्य मच्चित्त: सततं भव || 57||",
-    translation: "18.57: Dedicate your every activity to me, making me your supreme goal. Taking shelter of the Yog of the intellect, keep your consciousness absorbed in me always.",
-    hindi_translation: "18.57: अपने सभी कर्म मुझे समर्पित करो और मुझे ही अपना लक्ष्य मानो, बुद्धियोग का आश्रय लेकर अपनी चेतना को सदैव मुझमें लीन रखो।",
+    chapter: 2,
+    verse: 26,
+    shloka: "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् |तथापि त्वं महाबाहो नैवं शोचितुमर्हसि || 26||",
+    translation: "2.26: If, however, you think that the self is subject to constant birth and death, O mighty-armed Arjun, even then you should not grieve like this.",
+    hindi_translation: "2.26: यदि तुम यह सोचते हो कि आत्मा निरन्तर जन्म लेती है और मरती है तब ऐसी स्थिति में भी, हे महाबाहु अर्जुन! तुम्हें इस प्रकार से शोक नहीं करना चाहिए।",
 );
 ```
 <p align="center">
