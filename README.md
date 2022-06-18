@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 26,
-    shloka: "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् |तथापि त्वं महाबाहो नैवं शोचितुमर्हसि || 26||",
-    translation: "2.26: If, however, you think that the self is subject to constant birth and death, O mighty-armed Arjun, even then you should not grieve like this.",
-    hindi_translation: "2.26: यदि तुम यह सोचते हो कि आत्मा निरन्तर जन्म लेती है और मरती है तब ऐसी स्थिति में भी, हे महाबाहु अर्जुन! तुम्हें इस प्रकार से शोक नहीं करना चाहिए।",
+    chapter: 16,
+    verse: 22,
+    shloka: "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22||",
+    translation: "16.22: Those who are freed from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal.",
+    hindi_translation: "16.22: जो अंधकार रूपी तीन द्वारों से मुक्त होते हैं वे अपनी आत्मा के कल्याण के लिए चेष्टा करते हैं और इस प्रकार से परम लक्ष्य को प्राप्त करते हैं।",
 );
 ```
 <p align="center">
