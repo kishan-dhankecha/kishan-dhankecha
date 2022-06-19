@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 22,
-    shloka: "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22||",
-    translation: "16.22: Those who are freed from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal.",
-    hindi_translation: "16.22: जो अंधकार रूपी तीन द्वारों से मुक्त होते हैं वे अपनी आत्मा के कल्याण के लिए चेष्टा करते हैं और इस प्रकार से परम लक्ष्य को प्राप्त करते हैं।",
+    chapter: 3,
+    verse: 5,
+    shloka: "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |कार्यते ह्यवश: कर्म सर्व: प्रकृतिजैर्गुणै: || 5||",
+    translation: "3.5: There is no one who can remain without action even for a moment. Indeed, all beings are compelled to act by their qualities born of material nature (the three guṇas).",
+    hindi_translation: "3.5: कोई भी मनुष्य एक क्षण के लिए अकर्मा नहीं रह सकता। वास्तव में सभी प्राणी प्रकृति द्वारा उत्पन्न तीन गुणों के अनुसार कर्म करने के लिए विवश होते हैं।",
 );
 ```
 <p align="center">
