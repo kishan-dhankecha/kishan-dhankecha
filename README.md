@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 5,
-    shloka: "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |कार्यते ह्यवश: कर्म सर्व: प्रकृतिजैर्गुणै: || 5||",
-    translation: "3.5: There is no one who can remain without action even for a moment. Indeed, all beings are compelled to act by their qualities born of material nature (the three guṇas).",
-    hindi_translation: "3.5: कोई भी मनुष्य एक क्षण के लिए अकर्मा नहीं रह सकता। वास्तव में सभी प्राणी प्रकृति द्वारा उत्पन्न तीन गुणों के अनुसार कर्म करने के लिए विवश होते हैं।",
+    chapter: 4,
+    verse: 41,
+    shloka: "योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् |आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय || 41||",
+    translation: "4.41: O Arjun, actions do not bind those who have renounced karm in the fire of Yog, whose doubts have been dispelled by knowledge, and who are situated in knowledge of the self.",
+    hindi_translation: "4.41: हे अर्जुन। कर्म उन लोगों को बंधन में नहीं डाल सकते जिन्होंने योग की अग्नि में कर्मों को विनष्ट कर दिया है और ज्ञान द्वारा जिनके समस्त संशय दूर हो चुके हैं वे वास्तव में आत्मज्ञान में स्थित हो जाते हैं।",
 );
 ```
 <p align="center">
