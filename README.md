@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 41,
-    shloka: "योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् |आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय || 41||",
-    translation: "4.41: O Arjun, actions do not bind those who have renounced karm in the fire of Yog, whose doubts have been dispelled by knowledge, and who are situated in knowledge of the self.",
-    hindi_translation: "4.41: हे अर्जुन। कर्म उन लोगों को बंधन में नहीं डाल सकते जिन्होंने योग की अग्नि में कर्मों को विनष्ट कर दिया है और ज्ञान द्वारा जिनके समस्त संशय दूर हो चुके हैं वे वास्तव में आत्मज्ञान में स्थित हो जाते हैं।",
+    chapter: 11,
+    verse: 36,
+    shloka: "अर्जुन उवाच |स्थाने हृषीकेश तव प्रकीर्त्याजगत्प्रहृष्यत्यनुरज्यते च |रक्षांसि भीतानि दिशो द्रवन्तिसर्वे नमस्यन्ति च सिद्धसङ्घा: || 36||",
+    translation: "11.36: Arjun said: O Master of the senses, it is but apt that the universe rejoices in giving you praise and is enamored by You. Demons flee fearfully from you in all directions and the hosts of perfected saints bow to you.",
+    hindi_translation: "11.36: अर्जुन ने कहाः हे हृषीकेश! ये उचित है कि आपके नाम, श्रवण और यश गान से संसार हर्षित होता है। असुर गण आपसे भयभीत होकर सभी दिशाओं की ओर भागते रहते हैं और सिद्ध महात्माओं के समुदाय आपको नमस्कार करते हैं।",
 );
 ```
 <p align="center">
