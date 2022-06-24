@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 40,
-    shloka: "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |एष तूद्देशत: प्रोक्तो विभूतेर्विस्तरो मया || 40||",
-    translation: "10.40: There is no end to my divine manifestations, O conqueror of enemies. What I have declared to you is a mere sample of my infinite glories.",
-    hindi_translation: "10.40: हे शत्रु विजेता! मेरी दिव्य विभूतियों का कोई अन्त नहीं है। मैंने जो तुमसे कहा यह मेरी अनन्त महिमा का संकेत मात्र है।",
+    chapter: 5,
+    verse: 14,
+    shloka: "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: |न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते || 14||",
+    translation: "5.14: Neither the sense of doership nor the nature of actions comes from God; nor does He create the fruits of actions. All this is enacted by the modes of material nature (guṇas).",
+    hindi_translation: "5.14: न तो कर्त्तापन का बोध और न ही कर्मों की प्रवृत्ति भगवान से प्राप्त होती है तथा न ही वे कर्मों के फल का सृजन करते हैं। यह सब प्रकृत्ति के गुणों से सृजित होते हैं।",
 );
 ```
 <p align="center">
