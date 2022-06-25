@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 14,
-    shloka: "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: |न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते || 14||",
-    translation: "5.14: Neither the sense of doership nor the nature of actions comes from God; nor does He create the fruits of actions. All this is enacted by the modes of material nature (guṇas).",
-    hindi_translation: "5.14: न तो कर्त्तापन का बोध और न ही कर्मों की प्रवृत्ति भगवान से प्राप्त होती है तथा न ही वे कर्मों के फल का सृजन करते हैं। यह सब प्रकृत्ति के गुणों से सृजित होते हैं।",
+    chapter: 2,
+    verse: 52,
+    shloka: "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति |तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च || 52||",
+    translation: "2.52: When your intellect crosses the quagmire of delusion, you will then acquire indifference to what has been heard and what is yet to be heard (about enjoyments in this world and the next).",
+    hindi_translation: "2.52: जब तुम्हारी बुद्धि मोह के दलदल को पार करेगी तब तुम सुने हुए और आगे सुनने में आने वाले इस लोक और परलोक के भोगों सबके प्रति उदासीन हो जाओगे।",
 );
 ```
 <p align="center">
