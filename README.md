@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 52,
-    shloka: "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति |तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च || 52||",
-    translation: "2.52: When your intellect crosses the quagmire of delusion, you will then acquire indifference to what has been heard and what is yet to be heard (about enjoyments in this world and the next).",
-    hindi_translation: "2.52: जब तुम्हारी बुद्धि मोह के दलदल को पार करेगी तब तुम सुने हुए और आगे सुनने में आने वाले इस लोक और परलोक के भोगों सबके प्रति उदासीन हो जाओगे।",
+    chapter: 13,
+    verse: 17,
+    shloka: "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च || 17||",
+    translation: "13.17: He is indivisible, yet He appears to be divided amongst living beings. Know the Supreme Entity to be the Sustainer, Annihilator, and Creator of all beings.",
+    hindi_translation: "13.17: यद्यपि भगवान सभी जीवों के बीच विभाजित प्रतीत होता है किन्तु वह अविभाजित है। यह समझना होगा कि परमात्मा सबका पालनकर्ता, संहारक और सभी जीवों का जनक है।",
 );
 ```
 <p align="center">
