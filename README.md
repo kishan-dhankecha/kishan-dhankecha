@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 17,
-    shloka: "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च || 17||",
-    translation: "13.17: He is indivisible, yet He appears to be divided amongst living beings. Know the Supreme Entity to be the Sustainer, Annihilator, and Creator of all beings.",
-    hindi_translation: "13.17: यद्यपि भगवान सभी जीवों के बीच विभाजित प्रतीत होता है किन्तु वह अविभाजित है। यह समझना होगा कि परमात्मा सबका पालनकर्ता, संहारक और सभी जीवों का जनक है।",
+    chapter: 6,
+    verse: 6,
+    shloka: "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: |अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् || 6||",
+    translation: "6.6: For those who have conquered the mind, it is their friend. For those who have failed to do so, the mind works like an enemy.",
+    hindi_translation: "6.6: जिन्होंने मन पर विजय पा ली है, मन उनका मित्र है किन्तु जो ऐसा करने में असफल होते हैं मन उनके शत्रु के समान कार्य करता है।",
 );
 ```
 <p align="center">
