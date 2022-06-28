@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 6,
-    shloka: "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: |अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् || 6||",
-    translation: "6.6: For those who have conquered the mind, it is their friend. For those who have failed to do so, the mind works like an enemy.",
-    hindi_translation: "6.6: जिन्होंने मन पर विजय पा ली है, मन उनका मित्र है किन्तु जो ऐसा करने में असफल होते हैं मन उनके शत्रु के समान कार्य करता है।",
+    chapter: 17,
+    verse: 23,
+    shloka: "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविध: स्मृत: |ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिता: पुरा || 23||",
+    translation: "17.23: The words “Om Tat Sat” have been declared as symbolic representations of the Supreme Absolute Truth, from the beginning of creation. From them came the priests, scriptures, and sacrifice.",
+    hindi_translation: "17.23: सृष्टि के आरंभ से 'ॐ-तत्-सत्' शब्दों को सर्वोच्च परम सत्य की प्रतीकात्मक अभिव्यक्ति माना है। इन्हीं में से पुरोहित (ब्राह्मण) शास्त्र तथा यज्ञ शब्द की उत्पत्ति हुई है।",
 );
 ```
 <p align="center">
