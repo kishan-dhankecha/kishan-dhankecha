@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 23,
-    shloka: "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविध: स्मृत: |ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिता: पुरा || 23||",
-    translation: "17.23: The words “Om Tat Sat” have been declared as symbolic representations of the Supreme Absolute Truth, from the beginning of creation. From them came the priests, scriptures, and sacrifice.",
-    hindi_translation: "17.23: सृष्टि के आरंभ से 'ॐ-तत्-सत्' शब्दों को सर्वोच्च परम सत्य की प्रतीकात्मक अभिव्यक्ति माना है। इन्हीं में से पुरोहित (ब्राह्मण) शास्त्र तथा यज्ञ शब्द की उत्पत्ति हुई है।",
+    chapter: 6,
+    verse: 31,
+    shloka: "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थित: |सर्वथा वर्तमानोऽपि स योगी मयि वर्तते || 31||",
+    translation: "6.31: The yogi who is established in union with me, and worships me as the Supreme Soul residing in all beings, dwells only in me, though engaged in all kinds of activities.",
+    hindi_translation: "6.31: जो योगी मुझमें एकनिष्ठ हो जाता है और परमात्मा के रूप में सभी प्राणियों में मुझे देखकर श्रद्धापूर्वक मेरी भक्ति करता है, वह सभी प्रकार के कर्म करता हुआ भी केवल मुझमें स्थित हो जाता है।",
 );
 ```
 <p align="center">
