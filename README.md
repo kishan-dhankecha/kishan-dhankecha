@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 31,
-    shloka: "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थित: |सर्वथा वर्तमानोऽपि स योगी मयि वर्तते || 31||",
-    translation: "6.31: The yogi who is established in union with me, and worships me as the Supreme Soul residing in all beings, dwells only in me, though engaged in all kinds of activities.",
-    hindi_translation: "6.31: जो योगी मुझमें एकनिष्ठ हो जाता है और परमात्मा के रूप में सभी प्राणियों में मुझे देखकर श्रद्धापूर्वक मेरी भक्ति करता है, वह सभी प्रकार के कर्म करता हुआ भी केवल मुझमें स्थित हो जाता है।",
+    chapter: 18,
+    verse: 71,
+    shloka: "श्रद्धावाननसूयश्च शृणुयादपि यो नर: |सोऽपि मुक्त: शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् || 71||",
+    translation: "18.71: Even those who only listen to this knowledge with faith and without envy will be liberated from sins and attain the auspicious abodes where the pious dwell.",
+    hindi_translation: "18.71: वे जो श्रद्धायुक्त तथा द्वेष रहित होकर केवल इस ज्ञान को सुनते हैं वे पापों से मुक्त हो जाते हैं और मेरे पवित्र लोकों को पाते हैं जहाँ पुण्य आत्माएं निवास करती हैं।",
 );
 ```
 <p align="center">
