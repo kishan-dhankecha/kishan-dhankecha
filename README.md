@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 71,
-    shloka: "श्रद्धावाननसूयश्च शृणुयादपि यो नर: |सोऽपि मुक्त: शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् || 71||",
-    translation: "18.71: Even those who only listen to this knowledge with faith and without envy will be liberated from sins and attain the auspicious abodes where the pious dwell.",
-    hindi_translation: "18.71: वे जो श्रद्धायुक्त तथा द्वेष रहित होकर केवल इस ज्ञान को सुनते हैं वे पापों से मुक्त हो जाते हैं और मेरे पवित्र लोकों को पाते हैं जहाँ पुण्य आत्माएं निवास करती हैं।",
+    chapter: 16,
+    verse: 11,
+    shloka: "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिता: |कामोपभोगपरमा एतावदिति निश्चिता: || 11||",
+    translation: "16.11: They are obsessed with endless anxieties that end only with death. Still, they maintain with complete assurance that gratification of desires and accumulation of wealth is the highest purpose of life.",
+    hindi_translation: "16.11: वे ऐसी अंतहीन चिंताओं से पीड़ित रहते हैं जो मृत्यु होने पर समाप्त होती हैं फिर भी वे पूर्ण रूप से आश्वस्त रहते हैं कि कामनाओं की तृप्ति और धन सम्पत्ति का संचय ही जीवन का परम लक्ष्य है।",
 );
 ```
 <p align="center">
