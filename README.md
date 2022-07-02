@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
+    chapter: 12,
     verse: 11,
-    shloka: "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिता: |कामोपभोगपरमा एतावदिति निश्चिता: || 11||",
-    translation: "16.11: They are obsessed with endless anxieties that end only with death. Still, they maintain with complete assurance that gratification of desires and accumulation of wealth is the highest purpose of life.",
-    hindi_translation: "16.11: वे ऐसी अंतहीन चिंताओं से पीड़ित रहते हैं जो मृत्यु होने पर समाप्त होती हैं फिर भी वे पूर्ण रूप से आश्वस्त रहते हैं कि कामनाओं की तृप्ति और धन सम्पत्ति का संचय ही जीवन का परम लक्ष्य है।",
+    shloka: "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रित: |सर्वकर्मफलत्यागं तत: कुरु यतात्मवान् || 11||",
+    translation: "12.11: If you are unable to even work for Me in devotion, then try to renounce the fruits of your actions and be situated in the self.",
+    hindi_translation: "12.11: यदि तुम भक्तियुक्त होकर मेरी सेवा के लिए कार्य करने में असमर्थ हो तब अपने सभी कर्मों के फलों का त्याग करो और आत्म स्थित हो जाओ।",
 );
 ```
 <p align="center">
