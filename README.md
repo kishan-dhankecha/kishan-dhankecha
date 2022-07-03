@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 11,
-    shloka: "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रित: |सर्वकर्मफलत्यागं तत: कुरु यतात्मवान् || 11||",
-    translation: "12.11: If you are unable to even work for Me in devotion, then try to renounce the fruits of your actions and be situated in the self.",
-    hindi_translation: "12.11: यदि तुम भक्तियुक्त होकर मेरी सेवा के लिए कार्य करने में असमर्थ हो तब अपने सभी कर्मों के फलों का त्याग करो और आत्म स्थित हो जाओ।",
+    chapter: 10,
+    verse: 33,
+    shloka: "अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च |अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||",
+    translation: "10.33: I am the beginning “A” amongst all letters; I am the dual word in grammatical compounds. I am the endless Time, and amongst creators I am Brahma.",
+    hindi_translation: "10.33: मैं सभी अक्षरों में प्रथम अक्षर 'आकार' हूँ और व्याकरण के समासों का द्वन्द्व समास हूँ। मैं शाश्वत काल हूँ और सृष्टाओं में ब्रह्मा हूँ।",
 );
 ```
 <p align="center">
