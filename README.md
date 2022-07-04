@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 33,
-    shloka: "अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च |अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||",
-    translation: "10.33: I am the beginning “A” amongst all letters; I am the dual word in grammatical compounds. I am the endless Time, and amongst creators I am Brahma.",
-    hindi_translation: "10.33: मैं सभी अक्षरों में प्रथम अक्षर 'आकार' हूँ और व्याकरण के समासों का द्वन्द्व समास हूँ। मैं शाश्वत काल हूँ और सृष्टाओं में ब्रह्मा हूँ।",
+    chapter: 4,
+    verse: 10,
+    shloka: "वीतरागभयक्रोधा मन्मया मामुपाश्रिता: |बहवो ज्ञानतपसा पूता मद्भावमागता: || 10||",
+    translation: "4.10: Being free from attachment, fear, and anger, becoming fully absorbed in Me, and taking refuge in Me, many persons in the past became purified by knowledge of Me, and thus attained My divine love.",
+    hindi_translation: "4.10: आसक्ति, भय और क्रोध से मुक्त होकर पूर्ण रूप से मुझमें तल्लीन होकर मेरी शरण ग्रहण कर भूतकाल में अनेक लोग मेरे ज्ञान से पवित्र हो चुके हैं और इस प्रकार से उन्होंने मेरा दिव्य प्रेम प्राप्त किया है।",
 );
 ```
 <p align="center">
