@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 10,
-    shloka: "वीतरागभयक्रोधा मन्मया मामुपाश्रिता: |बहवो ज्ञानतपसा पूता मद्भावमागता: || 10||",
-    translation: "4.10: Being free from attachment, fear, and anger, becoming fully absorbed in Me, and taking refuge in Me, many persons in the past became purified by knowledge of Me, and thus attained My divine love.",
-    hindi_translation: "4.10: आसक्ति, भय और क्रोध से मुक्त होकर पूर्ण रूप से मुझमें तल्लीन होकर मेरी शरण ग्रहण कर भूतकाल में अनेक लोग मेरे ज्ञान से पवित्र हो चुके हैं और इस प्रकार से उन्होंने मेरा दिव्य प्रेम प्राप्त किया है।",
+    chapter: 11,
+    verse: 19,
+    shloka: "अनादिमध्यान्तमनन्तवीर्य-मनन्तबाहुं शशिसूर्यनेत्रम् |पश्यामि त्वां दीप्तहुताशवक्त्रं-स्वतेजसा विश्वमिदं तपन्तम् || 19||",
+    translation: "11.19: You are without beginning, middle, or end; your power has no limits. Your arms are infinite; the sun and the moon are like your eyes, and fire is like your mouth. I see you warming the entire creation by your radiance.",
+    hindi_translation: "11.19: आप आदि, मध्य और अंत से रहित हैं और आपकी शक्तियों का कोई अंत नहीं है। सूर्य और चन्द्रमा आप के नेत्र हैं और अग्नि आपके मुख के तेज के समान है और मैं आपके तेज से समस्त ब्रह्माण्ड को जलते देख रहा हूँ।",
 );
 ```
 <p align="center">
