@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 11,
-    verse: 19,
-    shloka: "अनादिमध्यान्तमनन्तवीर्य-मनन्तबाहुं शशिसूर्यनेत्रम् |पश्यामि त्वां दीप्तहुताशवक्त्रं-स्वतेजसा विश्वमिदं तपन्तम् || 19||",
-    translation: "11.19: You are without beginning, middle, or end; your power has no limits. Your arms are infinite; the sun and the moon are like your eyes, and fire is like your mouth. I see you warming the entire creation by your radiance.",
-    hindi_translation: "11.19: आप आदि, मध्य और अंत से रहित हैं और आपकी शक्तियों का कोई अंत नहीं है। सूर्य और चन्द्रमा आप के नेत्र हैं और अग्नि आपके मुख के तेज के समान है और मैं आपके तेज से समस्त ब्रह्माण्ड को जलते देख रहा हूँ।",
+    verse: 13,
+    shloka: "तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा |अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा || 13||",
+    translation: "11.13: There Arjun could see the totality of the entire universe established in one place, in that body of the God of gods.",
+    hindi_translation: "11.13: अर्जुन ने देवों के देव के उस दिव्य शरीर में एक ही स्थान पर स्थित समस्त ब्रह्माण्डों को देखा।",
 );
 ```
 <p align="center">
