@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 4,
-    shloka: "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसा: |प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जना: || 4||",
-    translation: "17.4: Those in the mode of goodness worship the celestial gods; those in the mode of passion worship the yakṣhas and rākṣhasas; those in the mode of ignorance worship ghosts and spirits.",
-    hindi_translation: "17.4: सत्वगुण वाले स्वर्ग के देवताओं की पूजा करते हैं, रजोगुण वाले यक्षों तथा राक्षसों की पूजा करते हैं, तमोगुण वाले भूतों और प्रेतात्माओं की पूजा करते हैं।",
+    chapter: 15,
+    verse: 10,
+    shloka: "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुष: || 10||",
+    translation: "15.10: The ignorant do not perceive the soul as it resides in the body, and as it enjoys sense objects; nor do they perceive it when it departs. But those who possess the eyes of knowledge can behold it.",
+    hindi_translation: "15.10: अज्ञानी आत्मा का अनुभव नहीं कर पाते जबकि यह शरीर में रहती है और इन्द्रिय विषयों का भोग करती है और न ही उन्हें इसके शरीर से प्रस्थान करने का बोध होता है लेकिन वे जिनके नेत्र ज्ञान से युक्त होते हैं वे इसे देख सकते हैं।",
 );
 ```
 <p align="center">
