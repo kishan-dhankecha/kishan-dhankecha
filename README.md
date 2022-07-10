@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 9,
-    shloka: "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिन: |आहारा राजसस्येष्टा दु:खशोकामयप्रदा: || 9||",
-    translation: "17.9: Foods that are too bitter, too sour, salty, very hot, pungent, dry, and chiliful, are dear to persons in the mode of passion. Such foods produce pain, grief, and disease.",
-    hindi_translation: "17.9: अत्याधिक कड़वे, खट्टे, नमकीन, गर्म, तीखे, शुष्क तथा मिर्च युक्त दाहकारक व्यंजन रजो गुणी व्यक्तियों को प्रिय लगते हैं ऐसे भोज्य पदार्थों के सेवन से पीड़ा, दुख तथा रोग उत्पन्न होते हैं।",
+    chapter: 10,
+    verse: 36,
+    shloka: "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् || 36||",
+    translation: "10.36: I am the gambling of the cheats and the splendor of the splendid. I am the victory of the victorious, the resolve of the resolute, and the virtue of the virtuous.",
+    hindi_translation: "10.36: समस्त छलियों में मैं जुआ हूँ और तेजस्वियों में तेज हूँ। विजेताओं में विजय हूँ। संकल्पकर्ताओं का संकल्प और धर्मात्माओं का धर्म हूँ।",
 );
 ```
 <p align="center">
