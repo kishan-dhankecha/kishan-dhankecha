@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 4,
-    verse: 29-30,
-    shloka: "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे |प्राणापानगती रुद्ध्वा प्राणायामपरायणा: || 29||अपरे नियताहारा: प्राणान्प्राणेषु जुह्वति |सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषा: || 30||",
-    translation: "4.29-30: Still others offer as sacrifice the outgoing breath in the incoming breath, while some offer the incoming breath into the outgoing breath. Some arduously practice prāṇāyām and restrain the incoming and outgoing breaths, purely absorbed in the regulation of the life-energy. Yet others curtail their food intake and offer the breath into the life-energy as sacrifice. All these knowers of sacrifice are cleansed of their impurities as a result of such performances.",
-    hindi_translation: "4.29-30: कुछ अन्य लोग भी हैं जो बाहर छोड़े जाने वाली श्वास को अन्दर भरी जाने वाली श्वास में जबकि अन्य लोग अन्दर भरी जाने वाली श्वास को बाहरी श्वास में रोककर यज्ञ के रूप में अर्पित करते हैं। कुछ प्राणायाम की कठिन क्रियाओं द्वारा भीतरी और बाहरी श्वासों को रोककर प्राणवायु को नियंत्रित कर उसमें पूरी तरह से आत्मसात् हो जाते हैं। कुछ योगी जन अल्प भोजन कर श्वासों को यज्ञ के रूप में प्राण शक्ति में अर्पित कर देते हैं। सब प्रकार के यज्ञों को संपन्न करने के परिणामस्वरूप योग साधक अपनी अशुद्धता को शुद्ध करते हैं।",
+    verse: 24,
+    shloka: "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् |ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना || 24||",
+    translation: "4.24: For those who are completely absorbed in God-consciousness, the oblation is Brahman, the ladle with which it is offered is Brahman, the act of offering is Brahman, and the sacrificial fire is also Brahman. Such persons, who view everything as God, easily attain him.",
+    hindi_translation: "4.24: जो मनुष्य पूर्णतया भगवदचेतना में तल्लीन रहते हैं उनका हवन ब्रह्म है, हवन सामग्री ब्रह्म है और करछुल जिससे आहुति डाली जाती है वह ब्रह्म है, अर्पण कार्य ब्रह्म है और यज्ञ की अग्नि भी ब्रह्म है। ऐसे मनुष्य जो प्रत्येक वस्तु को भगवान के रूप में देखते हैं वे सहजता से उसे पा लेते हैं।",
 );
 ```
 <p align="center">
