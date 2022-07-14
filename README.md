@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 24,
-    shloka: "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् |ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना || 24||",
-    translation: "4.24: For those who are completely absorbed in God-consciousness, the oblation is Brahman, the ladle with which it is offered is Brahman, the act of offering is Brahman, and the sacrificial fire is also Brahman. Such persons, who view everything as God, easily attain him.",
-    hindi_translation: "4.24: जो मनुष्य पूर्णतया भगवदचेतना में तल्लीन रहते हैं उनका हवन ब्रह्म है, हवन सामग्री ब्रह्म है और करछुल जिससे आहुति डाली जाती है वह ब्रह्म है, अर्पण कार्य ब्रह्म है और यज्ञ की अग्नि भी ब्रह्म है। ऐसे मनुष्य जो प्रत्येक वस्तु को भगवान के रूप में देखते हैं वे सहजता से उसे पा लेते हैं।",
+    chapter: 17,
+    verse: 2,
+    shloka: "श्रीभगवानुवाच |त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |सात्त्विकी राजसी चैव तामसी चेति तां शृणु || 2||",
+    translation: "17.2: The Supreme Divine Personality said: Every human being is born with innate faith, which can be of three kinds—sāttvic, rājasic, or tāmasic. Now hear about this from me.",
+    hindi_translation: "17.2: पुरुषोत्तम भगवान ने कहा-”प्रत्येक प्राणी स्वाभाविक रूप से श्रद्धा के साथ जन्म लेता है जो सात्विक, राजसिक अथवा तामसिक तीन प्रकार की हो सकती है। अब इस संबंध में मुझसे सुनो।”",
 );
 ```
 <p align="center">
