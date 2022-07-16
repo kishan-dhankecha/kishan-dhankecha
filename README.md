@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 27,
-    shloka: "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि || 27||",
-    translation: "2.27: Death is certain for one who has been born, and rebirth is inevitable for one who has died. Therefore, you should not lament over the inevitable.",
-    hindi_translation: "2.27: जो जन्म लेता है उसकी मृत्यु निश्चित है और मृत्यु के पश्चात पुनर्जन्म भी अवश्यंभावी है। अतः तुम्हें अपरिहार्य के लिए शोक नहीं करना चाहिए।",
+    chapter: 12,
+    verse: 2,
+    shloka: "श्रीभगवानुवाच |मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |श्रद्धया परयोपेतास्ते मे युक्ततमा मता: || 2||",
+    translation: "12.2: The Blessed Lord said: Those who fix their minds on Me and always engage in My devotion with steadfast faith, I consider them to be the best yogis.",
+    hindi_translation: "12.2: आनंदमयी भगवान ने कहा-वे जो अपने मन को मुझमें स्थिर करते हैं और सदैव दृढ़तापूर्वक पूर्ण श्रद्धा के साथ मेरी भक्ति में तल्लीन रहते हैं, मैं उन्हें सर्वश्रेष्ठ योगी मानता हूँ।",
 );
 ```
 <p align="center">
