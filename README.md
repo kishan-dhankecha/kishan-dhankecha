@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 12,
-    verse: 2,
-    shloka: "श्रीभगवानुवाच |मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |श्रद्धया परयोपेतास्ते मे युक्ततमा मता: || 2||",
-    translation: "12.2: The Blessed Lord said: Those who fix their minds on Me and always engage in My devotion with steadfast faith, I consider them to be the best yogis.",
-    hindi_translation: "12.2: आनंदमयी भगवान ने कहा-वे जो अपने मन को मुझमें स्थिर करते हैं और सदैव दृढ़तापूर्वक पूर्ण श्रद्धा के साथ मेरी भक्ति में तल्लीन रहते हैं, मैं उन्हें सर्वश्रेष्ठ योगी मानता हूँ।",
+    verse: 3-4,
+    shloka: "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |सर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् || 3||सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धय: |ते प्राप्नुवन्ति मामेव सर्वभूतहिते रता: || 4||",
+    translation: "12.3-4: But those who worship the formless aspect of the Absolute Truth—the imperishable, the indefinable, the unmanifest, the all-pervading, the unthinkable, the unchanging, the eternal, and the immoveable—by restraining their senses and being even-minded everywhere, such persons, engaged in the welfare of all beings, also attain Me.",
+    hindi_translation: "12.3-4: लेकिन जो लोग अपनी इन्द्रियों को निग्रह करके सर्वत्र समभाव से मेरे परम सत्य, निराकार, अविनाशी, निर्वचनीय, अव्यक्त, सर्वव्यापक, अकल्पनीय, अपरिवर्तनीय, शाश्वत और अचल रूप की पूजा करते हैं, वे सभी जीवों के कल्याण में संलग्न रहकर मुझे प्राप्त करते हैं।",
 );
 ```
 <p align="center">
