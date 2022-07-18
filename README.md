@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 3-4,
-    shloka: "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |सर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् || 3||सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धय: |ते प्राप्नुवन्ति मामेव सर्वभूतहिते रता: || 4||",
-    translation: "12.3-4: But those who worship the formless aspect of the Absolute Truth—the imperishable, the indefinable, the unmanifest, the all-pervading, the unthinkable, the unchanging, the eternal, and the immoveable—by restraining their senses and being even-minded everywhere, such persons, engaged in the welfare of all beings, also attain Me.",
-    hindi_translation: "12.3-4: लेकिन जो लोग अपनी इन्द्रियों को निग्रह करके सर्वत्र समभाव से मेरे परम सत्य, निराकार, अविनाशी, निर्वचनीय, अव्यक्त, सर्वव्यापक, अकल्पनीय, अपरिवर्तनीय, शाश्वत और अचल रूप की पूजा करते हैं, वे सभी जीवों के कल्याण में संलग्न रहकर मुझे प्राप्त करते हैं।",
+    chapter: 9,
+    verse: 31,
+    shloka: "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति |कौन्तेय प्रतिजानीहि न मे भक्त: प्रणश्यति || 31||",
+    translation: "9.31: Quickly they become virtuous, and attain lasting peace. O son of Kunti, declare it boldly that no devotee of Mine is ever lost.",
+    hindi_translation: "9.31: वे शीघ्र धार्मात्मा बन जाते हैं और चिरस्थायी शांति पाते हैं। हे कुन्ती पुत्र! निडर हो कर यह घोषणा कर दो कि मेरे भक्त का कभी पतन नहीं होता।",
 );
 ```
 <p align="center">
