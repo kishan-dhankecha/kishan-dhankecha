@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 31,
-    shloka: "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति |कौन्तेय प्रतिजानीहि न मे भक्त: प्रणश्यति || 31||",
-    translation: "9.31: Quickly they become virtuous, and attain lasting peace. O son of Kunti, declare it boldly that no devotee of Mine is ever lost.",
-    hindi_translation: "9.31: वे शीघ्र धार्मात्मा बन जाते हैं और चिरस्थायी शांति पाते हैं। हे कुन्ती पुत्र! निडर हो कर यह घोषणा कर दो कि मेरे भक्त का कभी पतन नहीं होता।",
+    chapter: 5,
+    verse: 10,
+    shloka: "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: |लिप्यते न स पापेन पद्मपत्रमिवाम्भसा || 10||",
+    translation: "5.10: Those who dedicate their actions to God, abandoning all attachment, remain untouched by sin, just as a lotus leaf is untouched by water.",
+    hindi_translation: "5.10: वे जो अपने कर्मफल भगवान को समर्पित कर सभी प्रकार से आसक्ति रहित होकर कर्म करते हैं, वे पापकर्म से उसी प्रकार से अछूते रहते हैं जिस प्रकार से कमल के पत्ते को जल स्पर्श नहीं कर पाता।",
 );
 ```
 <p align="center">
