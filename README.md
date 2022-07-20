@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 10,
-    shloka: "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: |लिप्यते न स पापेन पद्मपत्रमिवाम्भसा || 10||",
-    translation: "5.10: Those who dedicate their actions to God, abandoning all attachment, remain untouched by sin, just as a lotus leaf is untouched by water.",
-    hindi_translation: "5.10: वे जो अपने कर्मफल भगवान को समर्पित कर सभी प्रकार से आसक्ति रहित होकर कर्म करते हैं, वे पापकर्म से उसी प्रकार से अछूते रहते हैं जिस प्रकार से कमल के पत्ते को जल स्पर्श नहीं कर पाता।",
+    chapter: 2,
+    verse: 66,
+    shloka: "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||",
+    translation: "2.66: But an undisciplined person, who has not controlled the mind and senses, can neither have a resolute intellect nor steady contemplation on God. For one who never unites the mind with God there is no peace; and how can one who lacks peace be happy?",
+    hindi_translation: "2.66: लेकिन असंयमी व्यक्ति का अपने मन और इन्द्रियों पर नियंत्रण नहीं होता, न ही उसकी बुद्धि दृढ़ होती है और न ही उसका मन भगवान के चिन्तन मे स्थिर हो सकता है जो अपने मन को भगवान में स्थिर नहीं करता, जिसके बिना शान्ति संभव नहीं और शांति के बिना कोई कैसे सुखी रह सकता है?",
 );
 ```
 <p align="center">
