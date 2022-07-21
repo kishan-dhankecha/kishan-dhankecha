@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 66,
-    shloka: "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||",
-    translation: "2.66: But an undisciplined person, who has not controlled the mind and senses, can neither have a resolute intellect nor steady contemplation on God. For one who never unites the mind with God there is no peace; and how can one who lacks peace be happy?",
-    hindi_translation: "2.66: लेकिन असंयमी व्यक्ति का अपने मन और इन्द्रियों पर नियंत्रण नहीं होता, न ही उसकी बुद्धि दृढ़ होती है और न ही उसका मन भगवान के चिन्तन मे स्थिर हो सकता है जो अपने मन को भगवान में स्थिर नहीं करता, जिसके बिना शान्ति संभव नहीं और शांति के बिना कोई कैसे सुखी रह सकता है?",
+    chapter: 8,
+    verse: 13,
+    shloka: "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |य: प्रयाति त्यजन्देहं स याति परमां गतिम् || 13||",
+    translation: "8.13: One who departs from the body while remembering Me, the Supreme Personality, and chanting the syllable Om, will attain the supreme goal.",
+    hindi_translation: "8.13: जो देह त्यागते समय मेरा स्मरण करता है और पवित्र अक्षर ओम का उच्चारण करता है वह परम गति को प्राप्त करेगा।",
 );
 ```
 <p align="center">
