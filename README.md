@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 13,
-    shloka: "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |य: प्रयाति त्यजन्देहं स याति परमां गतिम् || 13||",
-    translation: "8.13: One who departs from the body while remembering Me, the Supreme Personality, and chanting the syllable Om, will attain the supreme goal.",
-    hindi_translation: "8.13: जो देह त्यागते समय मेरा स्मरण करता है और पवित्र अक्षर ओम का उच्चारण करता है वह परम गति को प्राप्त करेगा।",
+    chapter: 15,
+    verse: 9,
+    shloka: "श्रोत्रं चक्षु: स्पर्शनं च रसनं घ्राणमेव च |अधिष्ठाय मनश्चायं विषयानुपसेवते || 9||",
+    translation: "15.9: Using the sense perceptions of the ears, eyes, skin, tongue, and nose, which are grouped around the mind, the embodied soul savors the objects of the senses.",
+    hindi_translation: "15.9: कान, आंख, त्वचा, जिह्वा और नासिका के इन्द्रिय बोध जो मन के चारों ओर समूहबद्ध हैं, के साथ देहधारी आत्मा इन्द्रिय विषयों का भोग करती है।",
 );
 ```
 <p align="center">
