@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 9,
-    shloka: "श्रोत्रं चक्षु: स्पर्शनं च रसनं घ्राणमेव च |अधिष्ठाय मनश्चायं विषयानुपसेवते || 9||",
-    translation: "15.9: Using the sense perceptions of the ears, eyes, skin, tongue, and nose, which are grouped around the mind, the embodied soul savors the objects of the senses.",
-    hindi_translation: "15.9: कान, आंख, त्वचा, जिह्वा और नासिका के इन्द्रिय बोध जो मन के चारों ओर समूहबद्ध हैं, के साथ देहधारी आत्मा इन्द्रिय विषयों का भोग करती है।",
+    chapter: 13,
+    verse: 13,
+    shloka: "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||",
+    translation: "13.13: I shall now reveal to you that which ought to be known, and by knowing which, one attains immortality. It is the beginningless Brahman, which lies beyond existence and non-existence.",
+    hindi_translation: "13.13: अब मैं तुम्हें वह बताऊंगा कि जो जानने योग्य है और जिसे जान लेने के पश्चात कोई अमरत्व प्राप्त कर लेता है। यह अनादि ब्रह्म है जो अस्तित्त्व और अस्तित्त्वहीन से परे है।",
 );
 ```
 <p align="center">
