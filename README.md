@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 13,
-    shloka: "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||",
-    translation: "13.13: I shall now reveal to you that which ought to be known, and by knowing which, one attains immortality. It is the beginningless Brahman, which lies beyond existence and non-existence.",
-    hindi_translation: "13.13: अब मैं तुम्हें वह बताऊंगा कि जो जानने योग्य है और जिसे जान लेने के पश्चात कोई अमरत्व प्राप्त कर लेता है। यह अनादि ब्रह्म है जो अस्तित्त्व और अस्तित्त्वहीन से परे है।",
+    chapter: 2,
+    verse: 45,
+    shloka: "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् || 45||",
+    translation: "2.45: The Vedas deal with the three modes of material nature, O Arjun. Rise above the three modes to a state of pure spiritual consciousness. Freeing yourself from dualities, eternally fixed in Truth, and without concern for material gain and safety, be situated in the self.",
+    hindi_translation: "2.45: वेदों में प्रकृति के तीन गुणों का वर्णन मिलता है। हे अर्जुन! प्रकृति के इन गुणों से ऊपर उठकर विशुद्ध आध्यात्मिक चेतना मे स्थित हो जाओ। परम सत्य में स्थित होकर सभी प्रकार के द्वैतों से स्वयं को मुक्त करते हुए भौतिक लाभ-हानि और सुरक्षा की चिन्ता किए बिना आत्मलीन हो जाओ।",
 );
 ```
 <p align="center">
