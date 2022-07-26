@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 23,
-    shloka: "तं विद्याद् दु:खसंयोगवियोगं योगसञ्ज्ञितम् |स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा || 23||",
-    translation: "6.23: That state of severance from union with misery is known as Yog. This Yog should be resolutely practiced with determination free from pessimism.",
-    hindi_translation: "6.23: दख के संयोग से वियोग की अवस्था को योग के रूप में जाना जाता है। इस योग का दृढ़तापूर्वक कृतसंकल्प के साथ निराशा से मुक्त होकर पालन करना चाहिए।",
+    chapter: 5,
+    verse: 11,
+    shloka: "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि |योगिन: कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये || 11||",
+    translation: "5.11: The yogis, while giving up attachment, perform actions with their body, senses, mind, and intellect, only for the purpose of self-purification.",
+    hindi_translation: "5.11: योगीजन आसक्ति को त्याग कर अपने शरीर, इन्द्रिय, मन और बुद्धि द्वारा केवल अपने शुद्धिकरण के उद्देश्य से कर्म करते हैं।",
 );
 ```
 <p align="center">
