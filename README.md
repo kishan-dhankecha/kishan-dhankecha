@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 11,
-    shloka: "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि |योगिन: कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये || 11||",
-    translation: "5.11: The yogis, while giving up attachment, perform actions with their body, senses, mind, and intellect, only for the purpose of self-purification.",
-    hindi_translation: "5.11: योगीजन आसक्ति को त्याग कर अपने शरीर, इन्द्रिय, मन और बुद्धि द्वारा केवल अपने शुद्धिकरण के उद्देश्य से कर्म करते हैं।",
+    chapter: 14,
+    verse: 20,
+    shloka: "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |जन्ममृत्युजरादु:खैर्विमुक्तोऽमृतमश्रुते || 20||",
+    translation: "14.20: By transcending the three modes of material nature associated with the body, one becomes free from birth, death, old age, and misery, and attains immortality.",
+    hindi_translation: "14.20: शरीर से संबद्ध प्राकृतिक शक्ति के तीन गुणों से गुणातीत होकर कोई जन्म, मृत्यु, रोग, बुढ़ापे और दुखों से मुक्त हो जाता है तथा अमरता प्राप्त कर लेता है।",
 );
 ```
 <p align="center">
