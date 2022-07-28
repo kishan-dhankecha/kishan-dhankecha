@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 20,
-    shloka: "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |जन्ममृत्युजरादु:खैर्विमुक्तोऽमृतमश्रुते || 20||",
-    translation: "14.20: By transcending the three modes of material nature associated with the body, one becomes free from birth, death, old age, and misery, and attains immortality.",
-    hindi_translation: "14.20: शरीर से संबद्ध प्राकृतिक शक्ति के तीन गुणों से गुणातीत होकर कोई जन्म, मृत्यु, रोग, बुढ़ापे और दुखों से मुक्त हो जाता है तथा अमरता प्राप्त कर लेता है।",
+    chapter: 15,
+    verse: 6,
+    shloka: "न तद्भासयते सूर्यो न शशाङ्को न पावक: |यद्गत्वा न निवर्तन्ते तद्धाम परमं मम || 6||",
+    translation: "15.6: Neither the sun nor the moon, nor fire can illumine that Supreme Abode of Mine. Having gone There, one does not return to this material world again.",
+    hindi_translation: "15.6: न तो सूर्य, न ही चन्द्रमा और न ही अग्नि मेरे सर्वोच्च लोक को प्रकाशित कर सकते हैं। वहाँ जाकर फिर कोई पुनः इस भौतिक संसार में लौट कर नहीं आता।",
 );
 ```
 <p align="center">
