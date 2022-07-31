@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 5,
-    shloka: "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |य: प्रयाति स मद्भावं याति नास्त्यत्र संशय: || 5||",
-    translation: "8.5: Those who relinquish the body while remembering Me at the moment of death will come to Me. There is certainly no doubt about this.",
-    hindi_translation: "8.5: वे जो शरीर त्यागते समय मेरा स्मरण करते हैं, वे मेरे पास आएँगे। इस संबंध में निश्चित रूप से कोई संदेह नहीं है।",
+    chapter: 18,
+    verse: 61,
+    shloka: "ईश्वर: सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया || 61||",
+    translation: "18.61: The Supreme Lord dwells in the hearts of all living beings, O Arjun. According to their karmas, he directs the wanderings of the souls, who are seated on a machine made of the material energy.",
+    hindi_translation: "18.61: हे अर्जुन! परमात्मा सभी जीवों के हृदय में निवास करता है। उनके कर्मों के अनुसार वह भटकती आत्माओं को निर्देशित करता है जो भौतिक शक्ति से निर्मित यंत्र पर सवार होती है।",
 );
 ```
 <p align="center">
