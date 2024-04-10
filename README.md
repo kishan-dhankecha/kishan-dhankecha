@@ -9,9 +9,5 @@ const dev = Developer(
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 ```
+[![Kishan's StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14212524)](https://stackoverflow.com/users/14212524/)
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/14212524" target="_blank">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=14212524&theme=dark" alt="Kishan's StackOverflow" /> 
-  </a>
-</p>
