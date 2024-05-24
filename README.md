@@ -9,5 +9,5 @@ const dev = Developer(
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 ```
-[![Kishan's StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14212524)](https://stackoverflow.com/users/14212524/)
+[![My SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/14212524?theme=monokai)](https://stackoverflow.com/users/14212524/kishan-dhankecha)
 
